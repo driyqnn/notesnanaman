@@ -1,20 +1,14 @@
 {
   "scan_history": {
     "version": "1.0.4",
-    "scan_date": "2025-08-14T21:08:46.135038+08:00",
+    "scan_date": "2025-08-14T23:15:43.949114+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl",
-          "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
-          "size": 77603679
-        }
-      ],
+      "added_files": [],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 1,
-      "summary": "1 files added"
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
       "fileCount": 63,
@@ -2035,7 +2029,7 @@
   "version_history": [
     {
       "version": "1.0.4",
-      "scan_date": "2025-08-14T21:08:46.135038+08:00",
+      "scan_date": "2025-08-14T23:15:43.949114+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
