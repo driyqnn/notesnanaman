@@ -1,20 +1,26 @@
 {
   "scan_history": {
-    "version": "1.0.3",
-    "scan_date": "2025-08-14T20:29:58.028277+08:00",
+    "version": "1.0.4",
+    "scan_date": "2025-08-14T21:08:46.135038+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
+      "added_files": [
+        {
+          "id": "1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl",
+          "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
+          "size": 77603679
+        }
+      ],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 1,
+      "summary": "1 files added"
     },
     "data": {
-      "fileCount": 62,
+      "fileCount": 63,
       "folderCount": 28,
-      "totalSizeMB": 233.19,
-      "lastUpdated": "2025-08-14 00:04:20.506",
+      "totalSizeMB": 307.2,
+      "lastUpdated": "2025-08-14 13:00:25.411",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -60,10 +66,10 @@
           "type": "folder",
           "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
           "description": "",
-          "fileCount": 1,
+          "fileCount": 2,
           "folderCount": 4,
-          "totalSizeMB": 1.07,
-          "lastUpdated": "2025-08-12 03:58:10.556",
+          "totalSizeMB": 75.08,
+          "lastUpdated": "2025-08-14 13:00:25.411",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -90,10 +96,10 @@
               "type": "folder",
               "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
               "description": "",
-              "fileCount": 1,
+              "fileCount": 2,
               "folderCount": 2,
-              "totalSizeMB": 1.07,
-              "lastUpdated": "2025-08-12 03:58:10.556",
+              "totalSizeMB": 75.08,
+              "lastUpdated": "2025-08-14 13:00:25.411",
               "children": [
                 {
                   "name": "STATICS OF RIGID BODIES",
@@ -101,16 +107,35 @@
                   "type": "folder",
                   "driveLink": "https://drive.google.com/drive/folders/1tAWwAK2PXgovmlb9FTHjNPMGG6GuE74D",
                   "description": "Engr. Gilda Borbon",
-                  "fileCount": 0,
+                  "fileCount": 1,
                   "folderCount": 0,
-                  "totalSizeMB": 0,
-                  "lastUpdated": "N/A",
-                  "children": [],
-                  "fileTypes": {},
+                  "totalSizeMB": 74.01,
+                  "lastUpdated": "2025-08-14 13:00:25.411",
+                  "children": [
+                    {
+                      "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
+                      "id": "1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl",
+                      "type": "file",
+                      "mimeType": "application/pdf",
+                      "category": "documents",
+                      "size": {
+                        "bytes": 77603679,
+                        "kb": 75784.84,
+                        "mb": 74.01,
+                        "gb": 0.0723
+                      },
+                      "driveLink": "https://drive.google.com/file/d/1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl/view?usp=drivesdk",
+                      "modifiedTime": "2025-08-14 13:00:25.411",
+                      "createdTime": "2025-08-14 13:00:25.411"
+                    }
+                  ],
+                  "fileTypes": {
+                    "documents": 1
+                  },
                   "sizeDistribution": {
                     "small": 0,
                     "medium": 0,
-                    "large": 0,
+                    "large": 1,
                     "huge": 0
                   }
                 },
@@ -154,23 +179,23 @@
                 }
               ],
               "fileTypes": {
-                "documents": 1
+                "documents": 2
               },
               "sizeDistribution": {
                 "small": 0,
                 "medium": 1,
-                "large": 0,
+                "large": 1,
                 "huge": 0
               }
             }
           ],
           "fileTypes": {
-            "documents": 1
+            "documents": 2
           },
           "sizeDistribution": {
             "small": 0,
             "medium": 1,
-            "large": 0,
+            "large": 1,
             "huge": 0
           }
         },
@@ -1614,17 +1639,23 @@
         }
       ],
       "fileTypes": {
-        "documents": 61,
+        "documents": 62,
         "videos": 1
       },
       "sizeDistribution": {
         "small": 21,
         "medium": 36,
-        "large": 5,
+        "large": 6,
         "huge": 0
       }
     },
     "file_signatures": {
+      "1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl": {
+        "signature": "0f1475f10c794d0ec6c966f68cf4c3c7",
+        "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
+        "size": 77603679,
+        "modified": "2025-08-14 13:00:25.411"
+      },
       "1FdaeqasiRXH4JfPnqd9nwq3U1x974aIr": {
         "signature": "fed74aa1a03c9e2c8bd4e62ee2917270",
         "name": "NOTES.pdf",
@@ -1998,10 +2029,33 @@
         "modified": "2025-07-04 15:11:54.840"
       }
     },
-    "total_files": 62,
+    "total_files": 63,
     "total_folders": 28
   },
   "version_history": [
+    {
+      "version": "1.0.4",
+      "scan_date": "2025-08-14T21:08:46.135038+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl",
+            "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
+            "size": 77603679
+          }
+        ],
+        "deleted_files": [],
+        "modified_files": [],
+        "total_changes": 1,
+        "summary": "1 files added"
+      },
+      "stats": {
+        "totalFiles": 63,
+        "totalFolders": 28,
+        "totalSizeMB": 307.2
+      }
+    },
     {
       "version": "1.0.3",
       "scan_date": "2025-08-14T20:29:58.028277+08:00",
