@@ -1,0 +1,41 @@
+name: Google Drive Folder Scraper
+on:
+  workflow_dispatch: # Allows manual trigger
+  schedule:
+    - cron: "0 */3 * * *"  # Every 3 hours at minute 0 (fixed syntax)
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0  # Fetch full history to avoid conflicts
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-auth google-api-python-client google-auth-oauthlib pytz
+      - name: Write service account key to file
+        run: |
+          cat <<EOF > data1.json
+          ${{ secrets.SERVICE_ACCOUNT_JSON }}
+          EOF
+      - name: Check data1.json validity
+        run: python -c "import json, sys; data=open('data1.json').read(); print('❌ Empty!' if not data.strip() else '✅ JSON valid!' if json.loads(data) else '')"
+      - name: Run Python script
+        run: python main.py
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit and push public folder
+        run: |
+          git add public/
+          git commit -m "🔄 Auto-update Drive data [$(date '+%Y-%m-%d %H:%M:%S')]" || echo "No changes to commit"
+          git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main || true
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
