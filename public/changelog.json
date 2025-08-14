@@ -1,20 +1,14 @@
 {
   "scan_history": {
     "version": "1.0.3",
-    "scan_date": "2025-08-14T08:04:56.762574+08:00",
+    "scan_date": "2025-08-14T08:54:56.821697+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "1prdQDMAyY_EX-hc1dX88UzTX9ZAAJJwf",
-          "name": "Differential and Integral Calculus. Sixth Edition by Clyde Elton Love and Earl David Rainville.pdf",
-          "size": 33877472
-        }
-      ],
+      "added_files": [],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 1,
-      "summary": "1 files added"
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
       "fileCount": 62,
@@ -2010,7 +2004,7 @@
   "version_history": [
     {
       "version": "1.0.3",
-      "scan_date": "2025-08-14T08:04:56.762574+08:00",
+      "scan_date": "2025-08-14T08:54:56.821697+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
