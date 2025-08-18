@@ -1,18 +1,18 @@
 {
-  "version": "1.1.1",
-  "scan_date": "2025-08-18T22:22:26.527579+08:00",
+  "version": "1.1.2",
+  "scan_date": "2025-08-18T22:35:30.782904+08:00",
   "scanner_version": "1.0.0",
   "stats": {
     "totalFiles": 68,
     "totalFolders": 30,
-    "totalSizeMB": 343.17,
+    "totalSizeMB": 343.18,
     "apiCallsCount": 61
   },
   "data": {
     "fileCount": 68,
     "folderCount": 30,
-    "totalSizeMB": 343.17,
-    "lastUpdated": "2025-08-18 14:19:53.692",
+    "totalSizeMB": 343.18,
+    "lastUpdated": "2025-08-18 14:32:15.071",
     "children": [
       {
         "name": "FOURTH YEAR",
@@ -60,8 +60,8 @@
         "description": "",
         "fileCount": 7,
         "folderCount": 6,
-        "totalSizeMB": 111.05,
-        "lastUpdated": "2025-08-18 14:19:53.692",
+        "totalSizeMB": 111.06,
+        "lastUpdated": "2025-08-18 14:32:15.071",
         "children": [
           {
             "name": "SECOND SEMESTER",
@@ -90,8 +90,8 @@
             "description": "",
             "fileCount": 7,
             "folderCount": 4,
-            "totalSizeMB": 111.05,
-            "lastUpdated": "2025-08-18 14:19:53.692",
+            "totalSizeMB": 111.06,
+            "lastUpdated": "2025-08-18 14:32:15.071",
             "children": [
               {
                 "name": "DIFFERENTIAL EQUATIONS",
@@ -155,8 +155,8 @@
                 "description": "Engr. Gilda Borbon",
                 "fileCount": 4,
                 "folderCount": 1,
-                "totalSizeMB": 78.35,
-                "lastUpdated": "2025-08-18 14:19:53.692",
+                "totalSizeMB": 78.36,
+                "lastUpdated": "2025-08-18 14:32:15.071",
                 "children": [
                   {
                     "name": "NOTES [MECH 211].pdf",
@@ -182,24 +182,24 @@
                     "description": "",
                     "fileCount": 1,
                     "folderCount": 0,
-                    "totalSizeMB": 1.36,
-                    "lastUpdated": "2025-08-18 14:19:53.692",
+                    "totalSizeMB": 1.37,
+                    "lastUpdated": "2025-08-18 14:32:15.071",
                     "children": [
                       {
                         "name": "PSET#1 [Forces and Its Components].pdf",
-                        "id": "1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36",
+                        "id": "16aI30ZUU7aYAonToaOzoVeJ_uULj9y8x",
                         "type": "file",
                         "mimeType": "application/pdf",
                         "category": "documents",
                         "size": {
-                          "bytes": 1424577,
-                          "kb": 1391.19,
-                          "mb": 1.36,
+                          "bytes": 1439547,
+                          "kb": 1405.81,
+                          "mb": 1.37,
                           "gb": 0.0013
                         },
-                        "driveLink": "https://drive.google.com/file/d/1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36/view?usp=drivesdk",
-                        "modifiedTime": "2025-08-18 14:19:53.692",
-                        "createdTime": "2025-08-18 14:19:53.692"
+                        "driveLink": "https://drive.google.com/file/d/16aI30ZUU7aYAonToaOzoVeJ_uULj9y8x/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-18 14:32:15.071",
+                        "createdTime": "2025-08-18 14:32:15.071"
                       }
                     ],
                     "fileTypes": {
