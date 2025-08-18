@@ -1,37 +1,20 @@
 {
   "scan_history": {
-    "version": "1.0.7",
-    "scan_date": "2025-08-17T21:28:34.197157+08:00",
+    "version": "1.0.9",
+    "scan_date": "2025-08-18T17:27:05.689048+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "1JhYIs3soZCUItilVJA9WK4Z03vjK1lkf",
-          "name": "Elementary Differential Equations 7th Edition by Earl D. Rainville.pdf",
-          "size": 22983331
-        }
-      ],
+      "added_files": [],
       "deleted_files": [],
-      "modified_files": [
-        {
-          "id": "1F-7Dk11zuKCz973A5RZg5DBeyhHTBBhS",
-          "name": "Elementary Differential Equations 7th Edition [Solutions].pdf",
-          "old_name": "Elementary Differential Equations 7th Edition by Earl D. Rainville.pdf",
-          "old_modified": "2025-08-17 12:47:56",
-          "new_modified": "2025-08-17 13:15:26.067",
-          "old_size": 10184240,
-          "new_size": 10184240,
-          "change_type": "renamed, modified"
-        }
-      ],
-      "total_changes": 2,
-      "summary": "1 files added, 1 files modified"
+      "modified_files": [],
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
-      "fileCount": 66,
-      "folderCount": 29,
-      "totalSizeMB": 338.85,
-      "lastUpdated": "2025-08-17 13:16:01.208",
+      "fileCount": 68,
+      "folderCount": 30,
+      "totalSizeMB": 342.4,
+      "lastUpdated": "2025-08-18 08:15:45.893",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -77,10 +60,10 @@
           "type": "folder",
           "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
           "description": "",
-          "fileCount": 5,
-          "folderCount": 5,
-          "totalSizeMB": 106.73,
-          "lastUpdated": "2025-08-17 13:16:01.208",
+          "fileCount": 7,
+          "folderCount": 6,
+          "totalSizeMB": 110.28,
+          "lastUpdated": "2025-08-18 08:15:45.893",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -107,10 +90,10 @@
               "type": "folder",
               "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
               "description": "",
-              "fileCount": 5,
-              "folderCount": 3,
-              "totalSizeMB": 106.73,
-              "lastUpdated": "2025-08-17 13:16:01.208",
+              "fileCount": 7,
+              "folderCount": 4,
+              "totalSizeMB": 110.28,
+              "lastUpdated": "2025-08-18 08:15:45.893",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
@@ -172,11 +155,65 @@
                   "type": "folder",
                   "driveLink": "https://drive.google.com/drive/folders/1tAWwAK2PXgovmlb9FTHjNPMGG6GuE74D",
                   "description": "Engr. Gilda Borbon",
-                  "fileCount": 2,
-                  "folderCount": 0,
-                  "totalSizeMB": 74.03,
-                  "lastUpdated": "2025-08-15 12:37:20.525",
+                  "fileCount": 4,
+                  "folderCount": 1,
+                  "totalSizeMB": 77.58,
+                  "lastUpdated": "2025-08-18 08:12:02.311",
                   "children": [
+                    {
+                      "name": "PSETS",
+                      "id": "1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
+                      "type": "folder",
+                      "driveLink": "https://drive.google.com/drive/folders/1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
+                      "description": "",
+                      "fileCount": 1,
+                      "folderCount": 0,
+                      "totalSizeMB": 1.36,
+                      "lastUpdated": "2025-08-18 08:12:02.311",
+                      "children": [
+                        {
+                          "name": "PSET#1 [Forces and Its Components].pdf",
+                          "id": "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA",
+                          "type": "file",
+                          "mimeType": "application/pdf",
+                          "category": "documents",
+                          "size": {
+                            "bytes": 1424577,
+                            "kb": 1391.19,
+                            "mb": 1.36,
+                            "gb": 0.0013
+                          },
+                          "driveLink": "https://drive.google.com/file/d/1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA/view?usp=drivesdk",
+                          "modifiedTime": "2025-08-18 08:12:02.311",
+                          "createdTime": "2025-08-18 08:12:02.311"
+                        }
+                      ],
+                      "fileTypes": {
+                        "documents": 1
+                      },
+                      "sizeDistribution": {
+                        "small": 0,
+                        "medium": 1,
+                        "large": 0,
+                        "huge": 0
+                      }
+                    },
+                    {
+                      "name": "NOTES [MECH 211].pdf",
+                      "id": "1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd",
+                      "type": "file",
+                      "mimeType": "application/pdf",
+                      "category": "documents",
+                      "size": {
+                        "bytes": 2301522,
+                        "kb": 2247.58,
+                        "mb": 2.19,
+                        "gb": 0.0021
+                      },
+                      "driveLink": "https://drive.google.com/file/d/1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd/view?usp=drivesdk",
+                      "modifiedTime": "2025-08-18 08:11:29.519",
+                      "createdTime": "2025-08-18 08:11:29.519"
+                    },
                     {
                       "name": "MECH 211 - PSET BORDER.docx",
                       "id": "1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j",
@@ -211,11 +248,11 @@
                     }
                   ],
                   "fileTypes": {
-                    "documents": 2
+                    "documents": 4
                   },
                   "sizeDistribution": {
                     "small": 1,
-                    "medium": 0,
+                    "medium": 2,
                     "large": 1,
                     "huge": 0
                   }
@@ -229,11 +266,11 @@
                   "fileCount": 1,
                   "folderCount": 0,
                   "totalSizeMB": 1.07,
-                  "lastUpdated": "2025-08-12 03:58:10.556",
+                  "lastUpdated": "2025-08-18 08:15:45.893",
                   "children": [
                     {
-                      "name": "NOTES.pdf",
-                      "id": "1FdaeqasiRXH4JfPnqd9nwq3U1x974aIr",
+                      "name": "NOTES [SURV 211].pdf",
+                      "id": "10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE",
                       "type": "file",
                       "mimeType": "application/pdf",
                       "category": "documents",
@@ -243,9 +280,9 @@
                         "mb": 1.07,
                         "gb": 0.001
                       },
-                      "driveLink": "https://drive.google.com/file/d/1FdaeqasiRXH4JfPnqd9nwq3U1x974aIr/view?usp=drivesdk",
-                      "modifiedTime": "2025-08-12 03:58:10.556",
-                      "createdTime": "2025-08-12 03:58:10.413"
+                      "driveLink": "https://drive.google.com/file/d/10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE/view?usp=drivesdk",
+                      "modifiedTime": "2025-08-18 08:15:45.893",
+                      "createdTime": "2025-08-18 08:15:45.893"
                     }
                   ],
                   "fileTypes": {
@@ -260,22 +297,22 @@
                 }
               ],
               "fileTypes": {
-                "documents": 5
+                "documents": 7
               },
               "sizeDistribution": {
                 "small": 1,
-                "medium": 2,
+                "medium": 4,
                 "large": 2,
                 "huge": 0
               }
             }
           ],
           "fileTypes": {
-            "documents": 5
+            "documents": 7
           },
           "sizeDistribution": {
             "small": 1,
-            "medium": 2,
+            "medium": 4,
             "large": 2,
             "huge": 0
           }
@@ -1720,12 +1757,12 @@
         }
       ],
       "fileTypes": {
-        "documents": 65,
+        "documents": 67,
         "videos": 1
       },
       "sizeDistribution": {
         "small": 22,
-        "medium": 37,
+        "medium": 39,
         "large": 7,
         "huge": 0
       }
@@ -1743,6 +1780,18 @@
         "size": 10184240,
         "modified": "2025-08-17 13:15:26.067"
       },
+      "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA": {
+        "signature": "c4facb7e82e36bfd052ec1a7b4ba5494",
+        "name": "PSET#1 [Forces and Its Components].pdf",
+        "size": 1424577,
+        "modified": "2025-08-18 08:12:02.311"
+      },
+      "1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd": {
+        "signature": "9b6909d65e9079f6b13910a13ae5dab2",
+        "name": "NOTES [MECH 211].pdf",
+        "size": 2301522,
+        "modified": "2025-08-18 08:11:29.519"
+      },
       "1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j": {
         "signature": "ee5aa1b2fe1653c139702b709ed280db",
         "name": "MECH 211 - PSET BORDER.docx",
@@ -1755,11 +1804,11 @@
         "size": 77603679,
         "modified": "2025-08-14 13:00:25.411"
       },
-      "1FdaeqasiRXH4JfPnqd9nwq3U1x974aIr": {
-        "signature": "fed74aa1a03c9e2c8bd4e62ee2917270",
-        "name": "NOTES.pdf",
+      "10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE": {
+        "signature": "9439b02f79aab37991eed4aef0bed10e",
+        "name": "NOTES [SURV 211].pdf",
         "size": 1124164,
-        "modified": "2025-08-12 03:58:10.556"
+        "modified": "2025-08-18 08:15:45.893"
       },
       "1IgBA-uRL0spZPvjriccPCfG2bpixIGy8": {
         "signature": "b2e88b94fd4e3174b40b7bd417ddc146",
@@ -2128,13 +2177,70 @@
         "modified": "2025-07-04 15:11:54.840"
       }
     },
-    "total_files": 66,
-    "total_folders": 29
+    "total_files": 68,
+    "total_folders": 30
   },
   "version_history": [
     {
+      "version": "1.0.9",
+      "scan_date": "2025-08-18T17:27:05.689048+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE",
+            "name": "NOTES [SURV 211].pdf",
+            "size": 1124164
+          }
+        ],
+        "deleted_files": [
+          {
+            "id": "1FdaeqasiRXH4JfPnqd9nwq3U1x974aIr",
+            "name": "NOTES.pdf",
+            "size": 1124164
+          }
+        ],
+        "modified_files": [],
+        "total_changes": 2,
+        "summary": "1 files added, 1 files deleted"
+      },
+      "stats": {
+        "totalFiles": 68,
+        "totalFolders": 30,
+        "totalSizeMB": 342.4
+      }
+    },
+    {
+      "version": "1.0.8",
+      "scan_date": "2025-08-18T16:13:36.449166+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA",
+            "name": "PSET#1 [Forces and Its Components].pdf",
+            "size": 1424577
+          },
+          {
+            "id": "1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd",
+            "name": "NOTES [MECH 211].pdf",
+            "size": 2301522
+          }
+        ],
+        "deleted_files": [],
+        "modified_files": [],
+        "total_changes": 2,
+        "summary": "2 files added"
+      },
+      "stats": {
+        "totalFiles": 68,
+        "totalFolders": 30,
+        "totalSizeMB": 342.4
+      }
+    },
+    {
       "version": "1.0.7",
-      "scan_date": "2025-08-17T21:28:34.197157+08:00",
+      "scan_date": "2025-08-18T15:23:18.110525+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
