@@ -1,26 +1,14 @@
 {
   "scan_history": {
     "version": "1.1.0",
-    "scan_date": "2025-08-18T20:45:41.738681+08:00",
+    "scan_date": "2025-08-18T21:36:16.788073+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "1Zv_-pvr8nKU-SMUj1Rt8j0bSss4twDTO",
-          "name": "NOTES [MECH 211].pdf",
-          "size": 3109571
-        }
-      ],
-      "deleted_files": [
-        {
-          "id": "1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd",
-          "name": "NOTES [MECH 211].pdf",
-          "size": 2301522
-        }
-      ],
+      "added_files": [],
+      "deleted_files": [],
       "modified_files": [],
-      "total_changes": 2,
-      "summary": "1 files added, 1 files deleted"
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
       "fileCount": 68,
@@ -2195,7 +2183,7 @@
   "version_history": [
     {
       "version": "1.1.0",
-      "scan_date": "2025-08-18T20:45:41.738681+08:00",
+      "scan_date": "2025-08-18T21:36:16.788073+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
