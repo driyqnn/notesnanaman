@@ -1,18 +1,18 @@
 {
-  "version": "1.0.9",
-  "scan_date": "2025-08-18T20:44:50.307690+08:00",
+  "version": "1.1.0",
+  "scan_date": "2025-08-18T20:45:41.738681+08:00",
   "scanner_version": "1.0.0",
   "stats": {
     "totalFiles": 68,
     "totalFolders": 30,
-    "totalSizeMB": 342.4,
+    "totalSizeMB": 343.17,
     "apiCallsCount": 61
   },
   "data": {
     "fileCount": 68,
     "folderCount": 30,
-    "totalSizeMB": 342.4,
-    "lastUpdated": "2025-08-18 08:15:45.893",
+    "totalSizeMB": 343.17,
+    "lastUpdated": "2025-08-18 12:44:56.775",
     "children": [
       {
         "name": "FOURTH YEAR",
@@ -60,8 +60,8 @@
         "description": "",
         "fileCount": 7,
         "folderCount": 6,
-        "totalSizeMB": 110.28,
-        "lastUpdated": "2025-08-18 08:15:45.893",
+        "totalSizeMB": 111.05,
+        "lastUpdated": "2025-08-18 12:44:56.775",
         "children": [
           {
             "name": "SECOND SEMESTER",
@@ -90,8 +90,8 @@
             "description": "",
             "fileCount": 7,
             "folderCount": 4,
-            "totalSizeMB": 110.28,
-            "lastUpdated": "2025-08-18 08:15:45.893",
+            "totalSizeMB": 111.05,
+            "lastUpdated": "2025-08-18 12:44:56.775",
             "children": [
               {
                 "name": "DIFFERENTIAL EQUATIONS",
@@ -155,9 +155,25 @@
                 "description": "Engr. Gilda Borbon",
                 "fileCount": 4,
                 "folderCount": 1,
-                "totalSizeMB": 77.58,
-                "lastUpdated": "2025-08-18 08:12:02.311",
+                "totalSizeMB": 78.35,
+                "lastUpdated": "2025-08-18 12:44:56.775",
                 "children": [
+                  {
+                    "name": "NOTES [MECH 211].pdf",
+                    "id": "1Zv_-pvr8nKU-SMUj1Rt8j0bSss4twDTO",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 3109571,
+                      "kb": 3036.69,
+                      "mb": 2.97,
+                      "gb": 0.0029
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1Zv_-pvr8nKU-SMUj1Rt8j0bSss4twDTO/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-18 12:44:56.775",
+                    "createdTime": "2025-08-18 12:44:56.775"
+                  },
                   {
                     "name": "PSETS",
                     "id": "1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
@@ -195,22 +211,6 @@
                       "large": 0,
                       "huge": 0
                     }
-                  },
-                  {
-                    "name": "NOTES [MECH 211].pdf",
-                    "id": "1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd",
-                    "type": "file",
-                    "mimeType": "application/pdf",
-                    "category": "documents",
-                    "size": {
-                      "bytes": 2301522,
-                      "kb": 2247.58,
-                      "mb": 2.19,
-                      "gb": 0.0021
-                    },
-                    "driveLink": "https://drive.google.com/file/d/1zq2SJtKnkiXKmtgQ25UHOqzHQWswsEOd/view?usp=drivesdk",
-                    "modifiedTime": "2025-08-18 08:11:29.519",
-                    "createdTime": "2025-08-18 08:11:29.519"
                   },
                   {
                     "name": "MECH 211 - PSET BORDER.docx",
