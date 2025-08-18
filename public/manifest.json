@@ -1,0 +1,28 @@
+{
+  "name": "Academic Drive Browser",
+  "short_name": "Academic Drive",
+  "description": "Browse academic notes, study materials, and educational resources",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Academic Drive Browser Main Interface"
+    }
+  ]
+}
