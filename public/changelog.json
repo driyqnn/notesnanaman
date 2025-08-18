@@ -1,20 +1,32 @@
 {
   "scan_history": {
-    "version": "1.1.0",
-    "scan_date": "2025-08-18T21:36:16.788073+08:00",
+    "version": "1.1.1",
+    "scan_date": "2025-08-18T22:20:50.277442+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
-      "deleted_files": [],
+      "added_files": [
+        {
+          "id": "1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36",
+          "name": "PSET#1 [Forces and Its Components].pdf",
+          "size": 1424577
+        }
+      ],
+      "deleted_files": [
+        {
+          "id": "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA",
+          "name": "PSET#1 [Forces and Its Components].pdf",
+          "size": 1424577
+        }
+      ],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 2,
+      "summary": "1 files added, 1 files deleted"
     },
     "data": {
       "fileCount": 68,
       "folderCount": 30,
       "totalSizeMB": 343.17,
-      "lastUpdated": "2025-08-18 12:44:56.775",
+      "lastUpdated": "2025-08-18 14:19:53.692",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -63,7 +75,7 @@
           "fileCount": 7,
           "folderCount": 6,
           "totalSizeMB": 111.05,
-          "lastUpdated": "2025-08-18 12:44:56.775",
+          "lastUpdated": "2025-08-18 14:19:53.692",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -93,7 +105,7 @@
               "fileCount": 7,
               "folderCount": 4,
               "totalSizeMB": 111.05,
-              "lastUpdated": "2025-08-18 12:44:56.775",
+              "lastUpdated": "2025-08-18 14:19:53.692",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
@@ -158,7 +170,7 @@
                   "fileCount": 4,
                   "folderCount": 1,
                   "totalSizeMB": 78.35,
-                  "lastUpdated": "2025-08-18 12:44:56.775",
+                  "lastUpdated": "2025-08-18 14:19:53.692",
                   "children": [
                     {
                       "name": "NOTES [MECH 211].pdf",
@@ -185,11 +197,11 @@
                       "fileCount": 1,
                       "folderCount": 0,
                       "totalSizeMB": 1.36,
-                      "lastUpdated": "2025-08-18 08:12:02.311",
+                      "lastUpdated": "2025-08-18 14:19:53.692",
                       "children": [
                         {
                           "name": "PSET#1 [Forces and Its Components].pdf",
-                          "id": "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA",
+                          "id": "1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36",
                           "type": "file",
                           "mimeType": "application/pdf",
                           "category": "documents",
@@ -199,9 +211,9 @@
                             "mb": 1.36,
                             "gb": 0.0013
                           },
-                          "driveLink": "https://drive.google.com/file/d/1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA/view?usp=drivesdk",
-                          "modifiedTime": "2025-08-18 08:12:02.311",
-                          "createdTime": "2025-08-18 08:12:02.311"
+                          "driveLink": "https://drive.google.com/file/d/1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36/view?usp=drivesdk",
+                          "modifiedTime": "2025-08-18 14:19:53.692",
+                          "createdTime": "2025-08-18 14:19:53.692"
                         }
                       ],
                       "fileTypes": {
@@ -1786,11 +1798,11 @@
         "size": 3109571,
         "modified": "2025-08-18 12:44:56.775"
       },
-      "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA": {
-        "signature": "c4facb7e82e36bfd052ec1a7b4ba5494",
+      "1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36": {
+        "signature": "bdc70866731d976b00f416c4e9299005",
         "name": "PSET#1 [Forces and Its Components].pdf",
         "size": 1424577,
-        "modified": "2025-08-18 08:12:02.311"
+        "modified": "2025-08-18 14:19:53.692"
       },
       "1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j": {
         "signature": "ee5aa1b2fe1653c139702b709ed280db",
@@ -2181,6 +2193,35 @@
     "total_folders": 30
   },
   "version_history": [
+    {
+      "version": "1.1.1",
+      "scan_date": "2025-08-18T22:20:50.277442+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36",
+            "name": "PSET#1 [Forces and Its Components].pdf",
+            "size": 1424577
+          }
+        ],
+        "deleted_files": [
+          {
+            "id": "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA",
+            "name": "PSET#1 [Forces and Its Components].pdf",
+            "size": 1424577
+          }
+        ],
+        "modified_files": [],
+        "total_changes": 2,
+        "summary": "1 files added, 1 files deleted"
+      },
+      "stats": {
+        "totalFiles": 68,
+        "totalFolders": 30,
+        "totalSizeMB": 343.17
+      }
+    },
     {
       "version": "1.1.0",
       "scan_date": "2025-08-18T21:36:16.788073+08:00",

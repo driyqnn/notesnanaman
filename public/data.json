@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "scan_date": "2025-08-18T21:36:16.788073+08:00",
+  "version": "1.1.1",
+  "scan_date": "2025-08-18T22:20:50.277442+08:00",
   "scanner_version": "1.0.0",
   "stats": {
     "totalFiles": 68,
@@ -12,7 +12,7 @@
     "fileCount": 68,
     "folderCount": 30,
     "totalSizeMB": 343.17,
-    "lastUpdated": "2025-08-18 12:44:56.775",
+    "lastUpdated": "2025-08-18 14:19:53.692",
     "children": [
       {
         "name": "FOURTH YEAR",
@@ -61,7 +61,7 @@
         "fileCount": 7,
         "folderCount": 6,
         "totalSizeMB": 111.05,
-        "lastUpdated": "2025-08-18 12:44:56.775",
+        "lastUpdated": "2025-08-18 14:19:53.692",
         "children": [
           {
             "name": "SECOND SEMESTER",
@@ -91,7 +91,7 @@
             "fileCount": 7,
             "folderCount": 4,
             "totalSizeMB": 111.05,
-            "lastUpdated": "2025-08-18 12:44:56.775",
+            "lastUpdated": "2025-08-18 14:19:53.692",
             "children": [
               {
                 "name": "DIFFERENTIAL EQUATIONS",
@@ -156,7 +156,7 @@
                 "fileCount": 4,
                 "folderCount": 1,
                 "totalSizeMB": 78.35,
-                "lastUpdated": "2025-08-18 12:44:56.775",
+                "lastUpdated": "2025-08-18 14:19:53.692",
                 "children": [
                   {
                     "name": "NOTES [MECH 211].pdf",
@@ -183,11 +183,11 @@
                     "fileCount": 1,
                     "folderCount": 0,
                     "totalSizeMB": 1.36,
-                    "lastUpdated": "2025-08-18 08:12:02.311",
+                    "lastUpdated": "2025-08-18 14:19:53.692",
                     "children": [
                       {
                         "name": "PSET#1 [Forces and Its Components].pdf",
-                        "id": "1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA",
+                        "id": "1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36",
                         "type": "file",
                         "mimeType": "application/pdf",
                         "category": "documents",
@@ -197,9 +197,9 @@
                           "mb": 1.36,
                           "gb": 0.0013
                         },
-                        "driveLink": "https://drive.google.com/file/d/1D6npEcMdJa_RPd5xoUI6yjNidjVOOwpA/view?usp=drivesdk",
-                        "modifiedTime": "2025-08-18 08:12:02.311",
-                        "createdTime": "2025-08-18 08:12:02.311"
+                        "driveLink": "https://drive.google.com/file/d/1xKXX5H6Y1SB1V8-K4toOQUllDBK48H36/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-18 14:19:53.692",
+                        "createdTime": "2025-08-18 14:19:53.692"
                       }
                     ],
                     "fileTypes": {
