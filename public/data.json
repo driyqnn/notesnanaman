@@ -1,18 +1,18 @@
 {
-  "version": "1.1.2",
-  "scan_date": "2025-08-28T13:19:13.349248+08:00",
+  "version": "1.1.3",
+  "scan_date": "2025-08-28T13:29:40.591954+08:00",
   "scanner_version": "1.0.0",
   "stats": {
-    "totalFiles": 68,
+    "totalFiles": 69,
     "totalFolders": 30,
-    "totalSizeMB": 343.18,
+    "totalSizeMB": 344.47,
     "apiCallsCount": 61
   },
   "data": {
-    "fileCount": 68,
+    "fileCount": 69,
     "folderCount": 30,
-    "totalSizeMB": 343.18,
-    "lastUpdated": "2025-08-18 14:32:15.071",
+    "totalSizeMB": 344.47,
+    "lastUpdated": "2025-08-28 05:21:45.191",
     "children": [
       {
         "name": "FOURTH YEAR",
@@ -58,10 +58,10 @@
         "type": "folder",
         "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
         "description": "",
-        "fileCount": 7,
+        "fileCount": 8,
         "folderCount": 6,
-        "totalSizeMB": 111.06,
-        "lastUpdated": "2025-08-18 14:32:15.071",
+        "totalSizeMB": 112.35,
+        "lastUpdated": "2025-08-28 05:21:45.191",
         "children": [
           {
             "name": "SECOND SEMESTER",
@@ -88,10 +88,10 @@
             "type": "folder",
             "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
             "description": "",
-            "fileCount": 7,
+            "fileCount": 8,
             "folderCount": 4,
-            "totalSizeMB": 111.06,
-            "lastUpdated": "2025-08-18 14:32:15.071",
+            "totalSizeMB": 112.35,
+            "lastUpdated": "2025-08-28 05:21:45.191",
             "children": [
               {
                 "name": "DIFFERENTIAL EQUATIONS",
@@ -153,10 +153,10 @@
                 "type": "folder",
                 "driveLink": "https://drive.google.com/drive/folders/1tAWwAK2PXgovmlb9FTHjNPMGG6GuE74D",
                 "description": "Engr. Gilda Borbon",
-                "fileCount": 4,
+                "fileCount": 5,
                 "folderCount": 1,
-                "totalSizeMB": 78.36,
-                "lastUpdated": "2025-08-18 14:32:15.071",
+                "totalSizeMB": 79.65,
+                "lastUpdated": "2025-08-28 05:21:45.191",
                 "children": [
                   {
                     "name": "NOTES [MECH 211].pdf",
@@ -180,11 +180,27 @@
                     "type": "folder",
                     "driveLink": "https://drive.google.com/drive/folders/1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
                     "description": "",
-                    "fileCount": 1,
+                    "fileCount": 2,
                     "folderCount": 0,
-                    "totalSizeMB": 1.37,
-                    "lastUpdated": "2025-08-18 14:32:15.071",
+                    "totalSizeMB": 2.66,
+                    "lastUpdated": "2025-08-28 05:21:45.191",
                     "children": [
+                      {
+                        "name": "PSET#2 [Resultants of the Force Systems].pdf",
+                        "id": "10LaQnG2Kfqbkz9lCxpIxczgaVfjfb1b5",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1345964,
+                          "kb": 1314.42,
+                          "mb": 1.28,
+                          "gb": 0.0013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/10LaQnG2Kfqbkz9lCxpIxczgaVfjfb1b5/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-28 05:21:45.191",
+                        "createdTime": "2025-08-28 05:21:45.191"
+                      },
                       {
                         "name": "PSET#1 [Forces and Its Components].pdf",
                         "id": "16aI30ZUU7aYAonToaOzoVeJ_uULj9y8x",
@@ -203,11 +219,11 @@
                       }
                     ],
                     "fileTypes": {
-                      "documents": 1
+                      "documents": 2
                     },
                     "sizeDistribution": {
                       "small": 0,
-                      "medium": 1,
+                      "medium": 2,
                       "large": 0,
                       "huge": 0
                     }
@@ -246,11 +262,11 @@
                   }
                 ],
                 "fileTypes": {
-                  "documents": 4
+                  "documents": 5
                 },
                 "sizeDistribution": {
                   "small": 1,
-                  "medium": 2,
+                  "medium": 3,
                   "large": 1,
                   "huge": 0
                 }
@@ -295,22 +311,22 @@
               }
             ],
             "fileTypes": {
-              "documents": 7
+              "documents": 8
             },
             "sizeDistribution": {
               "small": 1,
-              "medium": 4,
+              "medium": 5,
               "large": 2,
               "huge": 0
             }
           }
         ],
         "fileTypes": {
-          "documents": 7
+          "documents": 8
         },
         "sizeDistribution": {
           "small": 1,
-          "medium": 4,
+          "medium": 5,
           "large": 2,
           "huge": 0
         }
@@ -1755,12 +1771,12 @@
       }
     ],
     "fileTypes": {
-      "documents": 67,
+      "documents": 68,
       "videos": 1
     },
     "sizeDistribution": {
       "small": 22,
-      "medium": 39,
+      "medium": 40,
       "large": 7,
       "huge": 0
     }
