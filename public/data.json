@@ -1,0 +1,1784 @@
+{
+  "version": "1.1.4",
+  "scan_date": "2025-09-04T18:20:01.207053+08:00",
+  "scanner_version": "1.0.0",
+  "stats": {
+    "totalFiles": 69,
+    "totalFolders": 30,
+    "totalSizeMB": 344.53,
+    "apiCallsCount": 61
+  },
+  "data": {
+    "fileCount": 69,
+    "folderCount": 30,
+    "totalSizeMB": 344.53,
+    "lastUpdated": "2025-09-02 11:08:08.763",
+    "children": [
+      {
+        "name": "FOURTH YEAR",
+        "id": "1T8_1unDa1v6G2Ak-FJm4-SdoEs8QPs5s",
+        "type": "folder",
+        "driveLink": "https://drive.google.com/drive/folders/1T8_1unDa1v6G2Ak-FJm4-SdoEs8QPs5s",
+        "description": "",
+        "fileCount": 0,
+        "folderCount": 0,
+        "totalSizeMB": 0,
+        "lastUpdated": "N/A",
+        "children": [],
+        "fileTypes": {},
+        "sizeDistribution": {
+          "small": 0,
+          "medium": 0,
+          "large": 0,
+          "huge": 0
+        }
+      },
+      {
+        "name": "THIRD YEAR",
+        "id": "1o_zYd4fr7RUDq7S83QbPUr_bnwr8VQMN",
+        "type": "folder",
+        "driveLink": "https://drive.google.com/drive/folders/1o_zYd4fr7RUDq7S83QbPUr_bnwr8VQMN",
+        "description": "",
+        "fileCount": 0,
+        "folderCount": 0,
+        "totalSizeMB": 0,
+        "lastUpdated": "N/A",
+        "children": [],
+        "fileTypes": {},
+        "sizeDistribution": {
+          "small": 0,
+          "medium": 0,
+          "large": 0,
+          "huge": 0
+        }
+      },
+      {
+        "name": "SECOND YEAR",
+        "id": "1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
+        "type": "folder",
+        "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
+        "description": "",
+        "fileCount": 8,
+        "folderCount": 6,
+        "totalSizeMB": 112.41,
+        "lastUpdated": "2025-09-02 11:08:08.763",
+        "children": [
+          {
+            "name": "SECOND SEMESTER",
+            "id": "1qSOlCDp5Xj9_5sTaKolw2gAJeSjJvnvm",
+            "type": "folder",
+            "driveLink": "https://drive.google.com/drive/folders/1qSOlCDp5Xj9_5sTaKolw2gAJeSjJvnvm",
+            "description": "",
+            "fileCount": 0,
+            "folderCount": 0,
+            "totalSizeMB": 0,
+            "lastUpdated": "N/A",
+            "children": [],
+            "fileTypes": {},
+            "sizeDistribution": {
+              "small": 0,
+              "medium": 0,
+              "large": 0,
+              "huge": 0
+            }
+          },
+          {
+            "name": "FIRST SEMESTER",
+            "id": "1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
+            "type": "folder",
+            "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
+            "description": "",
+            "fileCount": 8,
+            "folderCount": 4,
+            "totalSizeMB": 112.41,
+            "lastUpdated": "2025-09-02 11:08:08.763",
+            "children": [
+              {
+                "name": "DIFFERENTIAL EQUATIONS",
+                "id": "1omwNelgMtl_jKx5aEabB8bwZNJZOy0a-",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/1omwNelgMtl_jKx5aEabB8bwZNJZOy0a-",
+                "description": "Engr. Michael Jude Alvarez",
+                "fileCount": 2,
+                "folderCount": 0,
+                "totalSizeMB": 31.63,
+                "lastUpdated": "2025-08-17 13:16:01.208",
+                "children": [
+                  {
+                    "name": "Elementary Differential Equations 7th Edition by Earl D. Rainville.pdf",
+                    "id": "1JhYIs3soZCUItilVJA9WK4Z03vjK1lkf",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 22983331,
+                      "kb": 22444.66,
+                      "mb": 21.92,
+                      "gb": 0.0214
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1JhYIs3soZCUItilVJA9WK4Z03vjK1lkf/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-17 13:16:01.208",
+                    "createdTime": "2025-08-17 13:16:01.208"
+                  },
+                  {
+                    "name": "Elementary Differential Equations 7th Edition [Solutions].pdf",
+                    "id": "1F-7Dk11zuKCz973A5RZg5DBeyhHTBBhS",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 10184240,
+                      "kb": 9945.55,
+                      "mb": 9.71,
+                      "gb": 0.0095
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1F-7Dk11zuKCz973A5RZg5DBeyhHTBBhS/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-17 13:15:26.067",
+                    "createdTime": "2025-08-17 12:51:15.342"
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 2
+                },
+                "sizeDistribution": {
+                  "small": 0,
+                  "medium": 1,
+                  "large": 1,
+                  "huge": 0
+                }
+              },
+              {
+                "name": "STATICS OF RIGID BODIES",
+                "id": "1tAWwAK2PXgovmlb9FTHjNPMGG6GuE74D",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/1tAWwAK2PXgovmlb9FTHjNPMGG6GuE74D",
+                "description": "Engr. Gilda Borbon",
+                "fileCount": 5,
+                "folderCount": 1,
+                "totalSizeMB": 79.71,
+                "lastUpdated": "2025-09-02 11:08:08.763",
+                "children": [
+                  {
+                    "name": "NOTES [MECH 211].pdf",
+                    "id": "1Zv_-pvr8nKU-SMUj1Rt8j0bSss4twDTO",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 3109571,
+                      "kb": 3036.69,
+                      "mb": 2.97,
+                      "gb": 0.0029
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1Zv_-pvr8nKU-SMUj1Rt8j0bSss4twDTO/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-18 12:44:56.775",
+                    "createdTime": "2025-08-18 12:44:56.775"
+                  },
+                  {
+                    "name": "PSETS",
+                    "id": "1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
+                    "description": "",
+                    "fileCount": 2,
+                    "folderCount": 0,
+                    "totalSizeMB": 2.72,
+                    "lastUpdated": "2025-09-02 11:08:08.763",
+                    "children": [
+                      {
+                        "name": "PSET#2 [Resultants of the Force Systems].pdf",
+                        "id": "1EWlpBZls-jIeVf0dub95HIiAJmEOAVoN",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1409262,
+                          "kb": 1376.23,
+                          "mb": 1.34,
+                          "gb": 0.0013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1EWlpBZls-jIeVf0dub95HIiAJmEOAVoN/view?usp=drivesdk",
+                        "modifiedTime": "2025-09-02 11:08:08.763",
+                        "createdTime": "2025-09-02 11:08:08.763"
+                      },
+                      {
+                        "name": "PSET#1 [Forces and Its Components].pdf",
+                        "id": "16aI30ZUU7aYAonToaOzoVeJ_uULj9y8x",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1439547,
+                          "kb": 1405.81,
+                          "mb": 1.37,
+                          "gb": 0.0013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/16aI30ZUU7aYAonToaOzoVeJ_uULj9y8x/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-18 14:32:15.071",
+                        "createdTime": "2025-08-18 14:32:15.071"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 2
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 2,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "MECH 211 - PSET BORDER.docx",
+                    "id": "1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j",
+                    "type": "file",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 20615,
+                      "kb": 20.13,
+                      "mb": 0.02,
+                      "gb": 0.0
+                    },
+                    "driveLink": "https://docs.google.com/document/d/1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j/edit?usp=drivesdk&ouid=110034124292319530640&rtpof=true&sd=true",
+                    "modifiedTime": "2025-08-15 12:37:20.525",
+                    "createdTime": "2025-08-15 12:37:20.363"
+                  },
+                  {
+                    "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
+                    "id": "1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 77603679,
+                      "kb": 75784.84,
+                      "mb": 74.01,
+                      "gb": 0.0723
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1hMLCMABGkQsypmerkCXLFT6cRn8Sxhyl/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-14 13:00:25.411",
+                    "createdTime": "2025-08-14 13:00:25.411"
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 5
+                },
+                "sizeDistribution": {
+                  "small": 1,
+                  "medium": 3,
+                  "large": 1,
+                  "huge": 0
+                }
+              },
+              {
+                "name": "FUNDAMENTALS OF SURVEYING",
+                "id": "1-EnkWBdJByT1d0iIKAHfmo-XtXO4CPWw",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/1-EnkWBdJByT1d0iIKAHfmo-XtXO4CPWw",
+                "description": "Engr. Joel Villaruz",
+                "fileCount": 1,
+                "folderCount": 0,
+                "totalSizeMB": 1.07,
+                "lastUpdated": "2025-08-18 08:15:45.893",
+                "children": [
+                  {
+                    "name": "NOTES [SURV 211].pdf",
+                    "id": "10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 1124164,
+                      "kb": 1097.82,
+                      "mb": 1.07,
+                      "gb": 0.001
+                    },
+                    "driveLink": "https://drive.google.com/file/d/10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-18 08:15:45.893",
+                    "createdTime": "2025-08-18 08:15:45.893"
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 1
+                },
+                "sizeDistribution": {
+                  "small": 0,
+                  "medium": 1,
+                  "large": 0,
+                  "huge": 0
+                }
+              }
+            ],
+            "fileTypes": {
+              "documents": 8
+            },
+            "sizeDistribution": {
+              "small": 1,
+              "medium": 5,
+              "large": 2,
+              "huge": 0
+            }
+          }
+        ],
+        "fileTypes": {
+          "documents": 8
+        },
+        "sizeDistribution": {
+          "small": 1,
+          "medium": 5,
+          "large": 2,
+          "huge": 0
+        }
+      },
+      {
+        "name": "FIRST YEAR",
+        "id": "13c2XNW5QWOl3ssq1JbEUF2s-IdKQqzMS",
+        "type": "folder",
+        "driveLink": "https://drive.google.com/drive/folders/13c2XNW5QWOl3ssq1JbEUF2s-IdKQqzMS",
+        "description": "",
+        "fileCount": 61,
+        "folderCount": 20,
+        "totalSizeMB": 232.12,
+        "lastUpdated": "2025-08-14 00:04:20.506",
+        "children": [
+          {
+            "name": "FIRST SEMESTER",
+            "id": "1JDtirRN9-WX3K164O9L6tZl6P8Z0HvpY",
+            "type": "folder",
+            "driveLink": "https://drive.google.com/drive/folders/1JDtirRN9-WX3K164O9L6tZl6P8Z0HvpY",
+            "description": "",
+            "fileCount": 19,
+            "folderCount": 5,
+            "totalSizeMB": 74.27,
+            "lastUpdated": "2025-08-14 00:04:20.506",
+            "children": [
+              {
+                "name": "CHEMISTRY FOR ENGINEERS [LECTURE]",
+                "id": "1Yn8_cCHjCKYHMHVjjLBxxei5oDKnPxFD",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/1Yn8_cCHjCKYHMHVjjLBxxei5oDKnPxFD",
+                "description": "Engr. Ma. Inez Stephany Uvas",
+                "fileCount": 10,
+                "folderCount": 1,
+                "totalSizeMB": 17.8,
+                "lastUpdated": "2025-07-30 03:00:14.005",
+                "children": [
+                  {
+                    "name": "MODULES",
+                    "id": "1Y3uJEgF2Jp3esfL6eTMl_zr4s1vm4RAF",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1Y3uJEgF2Jp3esfL6eTMl_zr4s1vm4RAF",
+                    "description": "",
+                    "fileCount": 10,
+                    "folderCount": 0,
+                    "totalSizeMB": 17.8,
+                    "lastUpdated": "2025-07-30 03:00:14.005",
+                    "children": [
+                      {
+                        "name": "IM-chem-lec-Module-10-Chemical-Safety.pdf",
+                        "id": "1IgBA-uRL0spZPvjriccPCfG2bpixIGy8",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2299253,
+                          "kb": 2245.36,
+                          "mb": 2.19,
+                          "gb": 0.0021
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1IgBA-uRL0spZPvjriccPCfG2bpixIGy8/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:14.005",
+                        "createdTime": "2025-07-30 03:00:14.005"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-06-ENMs.pdf",
+                        "id": "19hOAbbaaxYi3tR9eUpk8-s6VX8XG-jwG",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1351455,
+                          "kb": 1319.78,
+                          "mb": 1.29,
+                          "gb": 0.0013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/19hOAbbaaxYi3tR9eUpk8-s6VX8XG-jwG/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:13.532",
+                        "createdTime": "2025-07-30 03:00:13.532"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-08-Soil.pdf",
+                        "id": "14yLpa_gZ7z9fi_iAlqBxFONPbClqqpXT",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 3523080,
+                          "kb": 3440.51,
+                          "mb": 3.36,
+                          "gb": 0.0033
+                        },
+                        "driveLink": "https://drive.google.com/file/d/14yLpa_gZ7z9fi_iAlqBxFONPbClqqpXT/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:12.248",
+                        "createdTime": "2025-07-30 03:00:12.248"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-09-Water.pdf",
+                        "id": "1qy_oAQhaDFaeesUd9l0gLz8iXrdgkFaA",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2703473,
+                          "kb": 2640.11,
+                          "mb": 2.58,
+                          "gb": 0.0025
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1qy_oAQhaDFaeesUd9l0gLz8iXrdgkFaA/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:11.702",
+                        "createdTime": "2025-07-30 03:00:11.702"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-05-Polymers.pdf",
+                        "id": "1ITa7MfO4NISCKlkCESRuPe5pEGt_O30p",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1964500,
+                          "kb": 1918.46,
+                          "mb": 1.87,
+                          "gb": 0.0018
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1ITa7MfO4NISCKlkCESRuPe5pEGt_O30p/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:11.360",
+                        "createdTime": "2025-07-30 03:00:11.360"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-03-Crystals.pdf",
+                        "id": "1vnWwbu1SqdYjFLfHFIPOOgNXuiv-NqSq",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1923877,
+                          "kb": 1878.79,
+                          "mb": 1.83,
+                          "gb": 0.0018
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1vnWwbu1SqdYjFLfHFIPOOgNXuiv-NqSq/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:11.302",
+                        "createdTime": "2025-07-30 03:00:11.302"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-07-atmosphere.pdf",
+                        "id": "1MKKwM1lEvzl9F1QXdX388c0SEaq6EVzk",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1652687,
+                          "kb": 1613.95,
+                          "mb": 1.58,
+                          "gb": 0.0015
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1MKKwM1lEvzl9F1QXdX388c0SEaq6EVzk/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:10.958",
+                        "createdTime": "2025-07-30 03:00:10.958"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-01-Nuclear.pdf",
+                        "id": "1ze4oig5-fPMV8xgpvT1zJtDBK3elb2nd",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1227440,
+                          "kb": 1198.67,
+                          "mb": 1.17,
+                          "gb": 0.0011
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1ze4oig5-fPMV8xgpvT1zJtDBK3elb2nd/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:10.806",
+                        "createdTime": "2025-07-30 03:00:10.806"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-04-Metals.pdf",
+                        "id": "1IW31RJOzBBNWkPbgGESfcDox8zGgK0ww",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1042904,
+                          "kb": 1018.46,
+                          "mb": 0.99,
+                          "gb": 0.001
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1IW31RJOzBBNWkPbgGESfcDox8zGgK0ww/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:10.580",
+                        "createdTime": "2025-07-30 03:00:10.580"
+                      },
+                      {
+                        "name": "IM-chem-lec-Module-02-Fuel.pdf",
+                        "id": "1nb11vOydaJVwOGgu7Uy4AvrCkqyJawxO",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 971436,
+                          "kb": 948.67,
+                          "mb": 0.93,
+                          "gb": 0.0009
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1nb11vOydaJVwOGgu7Uy4AvrCkqyJawxO/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-30 03:00:10.464",
+                        "createdTime": "2025-07-30 03:00:10.464"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 10
+                    },
+                    "sizeDistribution": {
+                      "small": 2,
+                      "medium": 8,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 10
+                },
+                "sizeDistribution": {
+                  "small": 2,
+                  "medium": 8,
+                  "large": 0,
+                  "huge": 0
+                }
+              },
+              {
+                "name": "DIFFERENTIAL CALCULUS",
+                "id": "1ac6r45BIisTXrGyI0N_Xgc2wqadwfyOu",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/1ac6r45BIisTXrGyI0N_Xgc2wqadwfyOu",
+                "description": "Engr. Allen Ian Distura",
+                "fileCount": 9,
+                "folderCount": 2,
+                "totalSizeMB": 56.47,
+                "lastUpdated": "2025-08-14 00:04:20.506",
+                "children": [
+                  {
+                    "name": "Differential and Integral Calculus. Sixth Edition by Clyde Elton Love and Earl David Rainville.pdf",
+                    "id": "1prdQDMAyY_EX-hc1dX88UzTX9ZAAJJwf",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 33877472,
+                      "kb": 33083.47,
+                      "mb": 32.31,
+                      "gb": 0.0316
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1prdQDMAyY_EX-hc1dX88UzTX9ZAAJJwf/view?usp=drivesdk",
+                    "modifiedTime": "2025-08-14 00:04:20.506",
+                    "createdTime": "2025-08-14 00:04:20.506"
+                  },
+                  {
+                    "name": "VIDEOS",
+                    "id": "1Ly0IrNh8znzMwjLJGCQw7WkiJyIei7V_",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1Ly0IrNh8znzMwjLJGCQw7WkiJyIei7V_",
+                    "description": "",
+                    "fileCount": 1,
+                    "folderCount": 0,
+                    "totalSizeMB": 13.28,
+                    "lastUpdated": "2025-08-10 03:49:05.999",
+                    "children": [
+                      {
+                        "name": "Trigonometric Identities.mp4",
+                        "id": "1hwwc3sJL0VKb5DjPZuU9p90gFvZ8SvK3",
+                        "type": "file",
+                        "mimeType": "video/mp4",
+                        "category": "videos",
+                        "size": {
+                          "bytes": 13925648,
+                          "kb": 13599.27,
+                          "mb": 13.28,
+                          "gb": 0.013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1hwwc3sJL0VKb5DjPZuU9p90gFvZ8SvK3/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-10 03:49:05.999",
+                        "createdTime": "2025-08-10 03:48:51.845"
+                      }
+                    ],
+                    "fileTypes": {
+                      "videos": 1
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 0,
+                      "large": 1,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "CHEAT SHEETS [Printable]",
+                    "id": "1b2PZtgJCfp9hdJaYGatg61LCnsVQcXXL",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1b2PZtgJCfp9hdJaYGatg61LCnsVQcXXL",
+                    "description": "",
+                    "fileCount": 5,
+                    "folderCount": 0,
+                    "totalSizeMB": 1.67,
+                    "lastUpdated": "2025-08-01 14:36:35.926",
+                    "children": [
+                      {
+                        "name": "Common_Derivatives_Integrals.pdf",
+                        "id": "14enHzzbvChx6C1XRkgplO4q0CWhLvhLi",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 180655,
+                          "kb": 176.42,
+                          "mb": 0.17,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/14enHzzbvChx6C1XRkgplO4q0CWhLvhLi/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:36:35.926",
+                        "createdTime": "2025-08-01 14:36:35.926"
+                      },
+                      {
+                        "name": "Calculus_Cheat_Sheet_All.pdf",
+                        "id": "16FW4B9d_QNGEJ_bxyYDbfLhy526wM-Wi",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 295561,
+                          "kb": 288.63,
+                          "mb": 0.28,
+                          "gb": 0.0003
+                        },
+                        "driveLink": "https://drive.google.com/file/d/16FW4B9d_QNGEJ_bxyYDbfLhy526wM-Wi/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:34:46.440",
+                        "createdTime": "2025-08-01 14:30:19.985"
+                      },
+                      {
+                        "name": "Trig_Cheat_Sheet.pdf",
+                        "id": "1WofWbYd7hKc15MJfO-c8fP8R8tbQoFu7",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 188189,
+                          "kb": 183.78,
+                          "mb": 0.18,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1WofWbYd7hKc15MJfO-c8fP8R8tbQoFu7/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:34:46.440",
+                        "createdTime": "2025-08-01 14:30:20.332"
+                      },
+                      {
+                        "name": "Algebra_Cheat_Sheet.pdf",
+                        "id": "1v3Vswv9GgCwemzltuPb6sD0LTihhLtXG",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 189999,
+                          "kb": 185.55,
+                          "mb": 0.18,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1v3Vswv9GgCwemzltuPb6sD0LTihhLtXG/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:34:46.440",
+                        "createdTime": "2025-08-01 14:30:19.862"
+                      },
+                      {
+                        "name": "Calculus_Cheat_Sheet_Derivatives.pdf",
+                        "id": "1nvGB5NsegxVtwDHnycFeKbMqY76sXLSU",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 893949,
+                          "kb": 873.0,
+                          "mb": 0.85,
+                          "gb": 0.0008
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1nvGB5NsegxVtwDHnycFeKbMqY76sXLSU/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:34:46.440",
+                        "createdTime": "2025-08-01 14:30:20.350"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 5
+                    },
+                    "sizeDistribution": {
+                      "small": 5,
+                      "medium": 0,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "NOTES + FORMULAS [Incomplete].pdf",
+                    "id": "1k9sL47xYMsRsNDAS5Ai65HnTybP6ZyjA",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 5373902,
+                      "kb": 5247.95,
+                      "mb": 5.12,
+                      "gb": 0.005
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1k9sL47xYMsRsNDAS5Ai65HnTybP6ZyjA/view?usp=drivesdk",
+                    "modifiedTime": "2025-07-30 01:51:42.951",
+                    "createdTime": "2025-07-30 01:51:42.951"
+                  },
+                  {
+                    "name": "QUIZZES AND EXAMS [Questions Only - Differential Calculus].pdf",
+                    "id": "1dIDQ2TXkZb5RJJUgaZxKfw957mOOHEeU",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 4290307,
+                      "kb": 4189.75,
+                      "mb": 4.09,
+                      "gb": 0.004
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1dIDQ2TXkZb5RJJUgaZxKfw957mOOHEeU/view?usp=drivesdk",
+                    "modifiedTime": "2025-07-30 01:51:41.442",
+                    "createdTime": "2025-07-30 01:51:41.442"
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 8,
+                  "videos": 1
+                },
+                "sizeDistribution": {
+                  "small": 5,
+                  "medium": 2,
+                  "large": 2,
+                  "huge": 0
+                }
+              }
+            ],
+            "fileTypes": {
+              "documents": 18,
+              "videos": 1
+            },
+            "sizeDistribution": {
+              "small": 7,
+              "medium": 10,
+              "large": 2,
+              "huge": 0
+            }
+          },
+          {
+            "name": "SECOND SEMESTER",
+            "id": "1HBGGvurMw36NUJ-TWPvagrFf8jXv5JXf",
+            "type": "folder",
+            "driveLink": "https://drive.google.com/drive/folders/1HBGGvurMw36NUJ-TWPvagrFf8jXv5JXf",
+            "description": "",
+            "fileCount": 24,
+            "folderCount": 7,
+            "totalSizeMB": 105.36,
+            "lastUpdated": "2025-08-01 14:36:52.210",
+            "children": [
+              {
+                "name": "INTEGRAL CALCULUS ",
+                "id": "122V86j2s69Nphwna-pyx-NjSzaKvMhl5",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/122V86j2s69Nphwna-pyx-NjSzaKvMhl5",
+                "description": "Engr. Allen Ian Distura",
+                "fileCount": 10,
+                "folderCount": 3,
+                "totalSizeMB": 31.32,
+                "lastUpdated": "2025-08-01 14:36:52.210",
+                "children": [
+                  {
+                    "name": "CHEAT SHEETS [Printable]",
+                    "id": "1WilquNaDoz3lelCQf0K2bbZ3I1ltXI5-",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1WilquNaDoz3lelCQf0K2bbZ3I1ltXI5-",
+                    "description": "",
+                    "fileCount": 5,
+                    "folderCount": 0,
+                    "totalSizeMB": 1.76,
+                    "lastUpdated": "2025-08-01 14:36:52.210",
+                    "children": [
+                      {
+                        "name": "Common_Derivatives_Integrals.pdf",
+                        "id": "1_PivliOPaWPB5ujk2x8XBERHPJ7aMg7E",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 180655,
+                          "kb": 176.42,
+                          "mb": 0.17,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1_PivliOPaWPB5ujk2x8XBERHPJ7aMg7E/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:36:52.210",
+                        "createdTime": "2025-08-01 14:36:52.210"
+                      },
+                      {
+                        "name": "Calculus_Cheat_Sheet_Integrals.pdf",
+                        "id": "1KHZvKc9e1xXurjbHs6FZSFMZt-gaX7_4",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 987291,
+                          "kb": 964.15,
+                          "mb": 0.94,
+                          "gb": 0.0009
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1KHZvKc9e1xXurjbHs6FZSFMZt-gaX7_4/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:30:51.461",
+                        "createdTime": "2025-08-01 14:30:51.461"
+                      },
+                      {
+                        "name": "Trig_Cheat_Sheet.pdf",
+                        "id": "1v5yggDnUdKlUS71vMCwOg0xy3xlMFg1d",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 188189,
+                          "kb": 183.78,
+                          "mb": 0.18,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1v5yggDnUdKlUS71vMCwOg0xy3xlMFg1d/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:30:51.021",
+                        "createdTime": "2025-08-01 14:30:51.021"
+                      },
+                      {
+                        "name": "Algebra_Cheat_Sheet.pdf",
+                        "id": "1i_dVhuqoN0UtLT4xay1BqSI9_gpt3gok",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 189999,
+                          "kb": 185.55,
+                          "mb": 0.18,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1i_dVhuqoN0UtLT4xay1BqSI9_gpt3gok/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:30:50.845",
+                        "createdTime": "2025-08-01 14:30:50.845"
+                      },
+                      {
+                        "name": "Calculus_Cheat_Sheet_All.pdf",
+                        "id": "1FWWxq0YZmeFyw8U2X4CNFg-KXTSIFbLS",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 295561,
+                          "kb": 288.63,
+                          "mb": 0.28,
+                          "gb": 0.0003
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1FWWxq0YZmeFyw8U2X4CNFg-KXTSIFbLS/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:30:50.782",
+                        "createdTime": "2025-08-01 14:30:50.782"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 5
+                    },
+                    "sizeDistribution": {
+                      "small": 5,
+                      "medium": 0,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "NOTES",
+                    "id": "1ucuFTbUFv4VTQfb-zkOkDzS7Ubbk0ckz",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1ucuFTbUFv4VTQfb-zkOkDzS7Ubbk0ckz",
+                    "description": "",
+                    "fileCount": 4,
+                    "folderCount": 0,
+                    "totalSizeMB": 26.49,
+                    "lastUpdated": "2025-08-01 14:32:22.718",
+                    "children": [
+                      {
+                        "name": "practice solve + removal.pdf",
+                        "id": "1mYS15HF11nSgWnoBPa-lxgPadG0dMLeZ",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 3802966,
+                          "kb": 3713.83,
+                          "mb": 3.63,
+                          "gb": 0.0035
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1mYS15HF11nSgWnoBPa-lxgPadG0dMLeZ/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:32:22.718",
+                        "createdTime": "2025-07-19 13:59:22.950"
+                      },
+                      {
+                        "name": "Integral Calculus Formulas [Tackled].pdf",
+                        "id": "1luBb9AcQRSRTdtTfpz8ESeEwUPizu8pA",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 7339379,
+                          "kb": 7167.36,
+                          "mb": 7.0,
+                          "gb": 0.0068
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1luBb9AcQRSRTdtTfpz8ESeEwUPizu8pA/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:32:22.718",
+                        "createdTime": "2025-06-25 05:59:34.362"
+                      },
+                      {
+                        "name": "Problem Sets (Definite to Volumes).pdf",
+                        "id": "16iBKwRxC_jM1H5VE3jzhNLB3hfYkuQCj",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 10497125,
+                          "kb": 10251.1,
+                          "mb": 10.01,
+                          "gb": 0.0098
+                        },
+                        "driveLink": "https://drive.google.com/file/d/16iBKwRxC_jM1H5VE3jzhNLB3hfYkuQCj/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:32:22.718",
+                        "createdTime": "2025-06-10 14:53:02.216"
+                      },
+                      {
+                        "name": "Notes (late notes sa finals).pdf",
+                        "id": "16fV9o20A_3KtVRaXgQYZovTlM13KTWyR",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 6134424,
+                          "kb": 5990.65,
+                          "mb": 5.85,
+                          "gb": 0.0057
+                        },
+                        "driveLink": "https://drive.google.com/file/d/16fV9o20A_3KtVRaXgQYZovTlM13KTWyR/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:32:22.718",
+                        "createdTime": "2025-06-10 14:52:54.861"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 4
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 3,
+                      "large": 1,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "QUIZ & EXAM",
+                    "id": "12OutEmvpEQ_J4PJaBpVzjdrVBjiGYSSS",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/12OutEmvpEQ_J4PJaBpVzjdrVBjiGYSSS",
+                    "description": "",
+                    "fileCount": 1,
+                    "folderCount": 0,
+                    "totalSizeMB": 3.07,
+                    "lastUpdated": "2025-08-01 14:32:00.137",
+                    "children": [
+                      {
+                        "name": "QUIZZES AND EXAMS [Questions Only - Integral Calculus].pdf",
+                        "id": "1eDdyW4QjLzXZ_hcMD7F6NHV3EtzR-Knv",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 3219139,
+                          "kb": 3143.69,
+                          "mb": 3.07,
+                          "gb": 0.003
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1eDdyW4QjLzXZ_hcMD7F6NHV3EtzR-Knv/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:32:00.137",
+                        "createdTime": "2025-07-30 01:52:06.422"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 1
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 1,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 10
+                },
+                "sizeDistribution": {
+                  "small": 5,
+                  "medium": 4,
+                  "large": 1,
+                  "huge": 0
+                }
+              },
+              {
+                "name": "PHYSICS FOR ENGINEERS",
+                "id": "1219RjxIEET9iZDn4OE4Z3qamSJc6XPI-",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/1219RjxIEET9iZDn4OE4Z3qamSJc6XPI-",
+                "description": "Engr. Ma. Inez Stephany Uvas",
+                "fileCount": 14,
+                "folderCount": 2,
+                "totalSizeMB": 74.04,
+                "lastUpdated": "2025-07-23 13:21:40.397",
+                "children": [
+                  {
+                    "name": "PHYS 121 OVERALL (1).pdf",
+                    "id": "1Tms6cBhfUlK4Iec1HM5R7rcxzrCitKbR",
+                    "type": "file",
+                    "mimeType": "application/pdf",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 48902727,
+                      "kb": 47756.57,
+                      "mb": 46.64,
+                      "gb": 0.0455
+                    },
+                    "driveLink": "https://drive.google.com/file/d/1Tms6cBhfUlK4Iec1HM5R7rcxzrCitKbR/view?usp=drivesdk",
+                    "modifiedTime": "2025-07-23 13:21:40.397",
+                    "createdTime": "2025-07-23 13:21:40.397"
+                  },
+                  {
+                    "name": "MODULES",
+                    "id": "1lLkvtLCxhKP6_th5py-6NDQh1_Wr2A9Q",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1lLkvtLCxhKP6_th5py-6NDQh1_Wr2A9Q",
+                    "description": "",
+                    "fileCount": 8,
+                    "folderCount": 0,
+                    "totalSizeMB": 11.22,
+                    "lastUpdated": "2025-06-12 15:38:17.549",
+                    "children": [
+                      {
+                        "name": "IM-3-Newtons-Law-of-Motion.pdf",
+                        "id": "1atSqGfYzPAWgAmylV28gkS-7odZxqhMH",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2509757,
+                          "kb": 2450.93,
+                          "mb": 2.39,
+                          "gb": 0.0023
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1atSqGfYzPAWgAmylV28gkS-7odZxqhMH/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:17.549",
+                        "createdTime": "2025-06-12 15:38:17.549"
+                      },
+                      {
+                        "name": "IM-5-Momentum.pdf",
+                        "id": "1aAde9B2bJ1i1kKPbMyfjfeKxRy7Ca9sP",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1435504,
+                          "kb": 1401.86,
+                          "mb": 1.37,
+                          "gb": 0.0013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1aAde9B2bJ1i1kKPbMyfjfeKxRy7Ca9sP/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:17.160",
+                        "createdTime": "2025-06-12 15:38:17.160"
+                      },
+                      {
+                        "name": "IM-6-Rotational-Motion-Gravitation.pdf",
+                        "id": "1vUnIKeUsFadcJDSr2HHL9Uw_3c-XyrVO",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 924458,
+                          "kb": 902.79,
+                          "mb": 0.88,
+                          "gb": 0.0009
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1vUnIKeUsFadcJDSr2HHL9Uw_3c-XyrVO/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:16.988",
+                        "createdTime": "2025-06-12 15:38:16.988"
+                      },
+                      {
+                        "name": "IM-2-Motion-One-Two-Dimensional.pdf",
+                        "id": "18sIBzmKewd4f_lfJrcK5cgy0AkUrfNlG",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1720171,
+                          "kb": 1679.85,
+                          "mb": 1.64,
+                          "gb": 0.0016
+                        },
+                        "driveLink": "https://drive.google.com/file/d/18sIBzmKewd4f_lfJrcK5cgy0AkUrfNlG/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:16.888",
+                        "createdTime": "2025-06-12 15:38:16.888"
+                      },
+                      {
+                        "name": "IM-8-Fluids.pdf",
+                        "id": "1yU0hquc09x-Vslev3FSDHmWLiIBcz6xj",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1603541,
+                          "kb": 1565.96,
+                          "mb": 1.53,
+                          "gb": 0.0015
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1yU0hquc09x-Vslev3FSDHmWLiIBcz6xj/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:16.772",
+                        "createdTime": "2025-06-12 15:38:16.772"
+                      },
+                      {
+                        "name": "IM-4-Energy.pdf",
+                        "id": "1wGiCpai-RuyQ9r68PfV_S5jYPDa30zQ9",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1454007,
+                          "kb": 1419.93,
+                          "mb": 1.39,
+                          "gb": 0.0014
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1wGiCpai-RuyQ9r68PfV_S5jYPDa30zQ9/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:16.620",
+                        "createdTime": "2025-06-12 15:38:16.620"
+                      },
+                      {
+                        "name": "IM-7-Rotational-Equilibrium-Dynamics.pdf",
+                        "id": "1hDn9jzPvATvWcasZNLZ1Svlt-kMhoKER",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1282310,
+                          "kb": 1252.26,
+                          "mb": 1.22,
+                          "gb": 0.0012
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1hDn9jzPvATvWcasZNLZ1Svlt-kMhoKER/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:16.348",
+                        "createdTime": "2025-06-12 15:38:16.348"
+                      },
+                      {
+                        "name": "IM-1-Physics-and-Measurement.pdf",
+                        "id": "1lIH0s4N9O4Kkqhs8uJyBZ_meHlQnU9Ru",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 831005,
+                          "kb": 811.53,
+                          "mb": 0.79,
+                          "gb": 0.0008
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1lIH0s4N9O4Kkqhs8uJyBZ_meHlQnU9Ru/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-12 15:38:15.976",
+                        "createdTime": "2025-06-12 15:38:15.976"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 8
+                    },
+                    "sizeDistribution": {
+                      "small": 2,
+                      "medium": 6,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "MIDTERMS",
+                    "id": "13hW0UlYF3KdoKPOjB8WiByR7ZrB9iG1P",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/13hW0UlYF3KdoKPOjB8WiByR7ZrB9iG1P",
+                    "description": "",
+                    "fileCount": 5,
+                    "folderCount": 0,
+                    "totalSizeMB": 16.18,
+                    "lastUpdated": "2025-06-10 14:54:49.492",
+                    "children": [
+                      {
+                        "name": "Module 1 - Measurements.pdf",
+                        "id": "16nAYtKTdNGlPtBCfzMCb_hZx4mSDzJYu",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2833054,
+                          "kb": 2766.65,
+                          "mb": 2.7,
+                          "gb": 0.0026
+                        },
+                        "driveLink": "https://drive.google.com/file/d/16nAYtKTdNGlPtBCfzMCb_hZx4mSDzJYu/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-10 14:54:49.492",
+                        "createdTime": "2025-06-10 14:54:04.734"
+                      },
+                      {
+                        "name": "Module 5 - Momentum.pdf",
+                        "id": "17I_FUzO1iSwct4bW4ucEMPfIZPcHpUv7",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1079529,
+                          "kb": 1054.23,
+                          "mb": 1.03,
+                          "gb": 0.001
+                        },
+                        "driveLink": "https://drive.google.com/file/d/17I_FUzO1iSwct4bW4ucEMPfIZPcHpUv7/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-10 14:54:05.942",
+                        "createdTime": "2025-06-10 14:54:05.846"
+                      },
+                      {
+                        "name": "Module 4 - Energy, Work, & Power.pdf",
+                        "id": "17NWikY-TUzLMQ4AJUTh2DDfdX1cTk-lm",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 5454493,
+                          "kb": 5326.65,
+                          "mb": 5.2,
+                          "gb": 0.0051
+                        },
+                        "driveLink": "https://drive.google.com/file/d/17NWikY-TUzLMQ4AJUTh2DDfdX1cTk-lm/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-10 14:54:05.721",
+                        "createdTime": "2025-06-10 14:54:05.584"
+                      },
+                      {
+                        "name": "Module 3 - Newton′s Law of Motion.pdf",
+                        "id": "17OS6sBhiVwBZbHF2I41OOWXeeSGeScN3",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 3733022,
+                          "kb": 3645.53,
+                          "mb": 3.56,
+                          "gb": 0.0035
+                        },
+                        "driveLink": "https://drive.google.com/file/d/17OS6sBhiVwBZbHF2I41OOWXeeSGeScN3/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-10 14:54:05.436",
+                        "createdTime": "2025-06-10 14:54:05.319"
+                      },
+                      {
+                        "name": "Module 2 - Motion.pdf",
+                        "id": "17RhKTJ0Ahci-us1cazSPASytqVwTUVp0",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 3863210,
+                          "kb": 3772.67,
+                          "mb": 3.68,
+                          "gb": 0.0036
+                        },
+                        "driveLink": "https://drive.google.com/file/d/17RhKTJ0Ahci-us1cazSPASytqVwTUVp0/view?usp=drivesdk",
+                        "modifiedTime": "2025-06-10 14:54:05.172",
+                        "createdTime": "2025-06-10 14:54:04.999"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 5
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 5,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 14
+                },
+                "sizeDistribution": {
+                  "small": 2,
+                  "medium": 11,
+                  "large": 1,
+                  "huge": 0
+                }
+              }
+            ],
+            "fileTypes": {
+              "documents": 24
+            },
+            "sizeDistribution": {
+              "small": 7,
+              "medium": 15,
+              "large": 2,
+              "huge": 0
+            }
+          },
+          {
+            "name": "BACKUP FILES",
+            "id": "140nmAALH9Td8SsLfKHHR_kSjFap4UaMe",
+            "type": "folder",
+            "driveLink": "https://drive.google.com/drive/folders/140nmAALH9Td8SsLfKHHR_kSjFap4UaMe",
+            "description": "",
+            "fileCount": 0,
+            "folderCount": 0,
+            "totalSizeMB": 0,
+            "lastUpdated": "N/A",
+            "children": [],
+            "fileTypes": {},
+            "sizeDistribution": {
+              "small": 0,
+              "medium": 0,
+              "large": 0,
+              "huge": 0
+            }
+          },
+          {
+            "name": "SUMMER",
+            "id": "1_8VbjplJGSaLqiVd_9VhXpMpyeM1ijpS",
+            "type": "folder",
+            "driveLink": "https://drive.google.com/drive/folders/1_8VbjplJGSaLqiVd_9VhXpMpyeM1ijpS",
+            "description": "",
+            "fileCount": 18,
+            "folderCount": 4,
+            "totalSizeMB": 52.49,
+            "lastUpdated": "2025-08-01 14:33:12.186",
+            "children": [
+              {
+                "name": "INTEGRAL CALCULUS",
+                "id": "15M_r00MH53dlKZdULhRtlvvjS0jq-iwA",
+                "type": "folder",
+                "driveLink": "https://drive.google.com/drive/folders/15M_r00MH53dlKZdULhRtlvvjS0jq-iwA",
+                "description": "Engr. Michael Jude Laverez",
+                "fileCount": 18,
+                "folderCount": 3,
+                "totalSizeMB": 52.49,
+                "lastUpdated": "2025-08-01 14:33:12.186",
+                "children": [
+                  {
+                    "name": "NOTES",
+                    "id": "1QmcaG3ODse_fDf75BZP5H5mBAMnySJio",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1QmcaG3ODse_fDf75BZP5H5mBAMnySJio",
+                    "description": "",
+                    "fileCount": 3,
+                    "folderCount": 0,
+                    "totalSizeMB": 33.67,
+                    "lastUpdated": "2025-08-01 14:33:12.186",
+                    "children": [
+                      {
+                        "name": "SOLVING INTEGRAL ASTA MADEDZ AKO.pdf",
+                        "id": "1W-Tf6gg0AAakarhYyelSY6CjaPXWBBmt",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 5428755,
+                          "kb": 5301.52,
+                          "mb": 5.18,
+                          "gb": 0.0051
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1W-Tf6gg0AAakarhYyelSY6CjaPXWBBmt/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:33:12.186",
+                        "createdTime": "2025-07-23 01:33:56.956"
+                      },
+                      {
+                        "name": "Integral Calculus Formulas.pdf",
+                        "id": "1ht0tPHEJfQNrzYZJEja4rcaFl0tX43bb",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 7339379,
+                          "kb": 7167.36,
+                          "mb": 7.0,
+                          "gb": 0.0068
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1ht0tPHEJfQNrzYZJEja4rcaFl0tX43bb/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:33:12.186",
+                        "createdTime": "2025-06-25 06:01:01.338"
+                      },
+                      {
+                        "name": "NOTES - MATH 122 SUMMER.pdf",
+                        "id": "1OOjbPM2tyOG_liVLn5Oudn-BaXa7Hu3W",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 22535342,
+                          "kb": 22007.17,
+                          "mb": 21.49,
+                          "gb": 0.021
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1OOjbPM2tyOG_liVLn5Oudn-BaXa7Hu3W/view?usp=drivesdk",
+                        "modifiedTime": "2025-08-01 14:33:12.186",
+                        "createdTime": "2025-07-19 05:23:48.982"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 3
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 2,
+                      "large": 1,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "QUIZ & EXAMS",
+                    "id": "1rxrGrSs0QqjV2VMBecFCaocjGslo1U6Z",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/1rxrGrSs0QqjV2VMBecFCaocjGslo1U6Z",
+                    "description": "",
+                    "fileCount": 1,
+                    "folderCount": 0,
+                    "totalSizeMB": 2.01,
+                    "lastUpdated": "2025-07-25 05:18:38.488",
+                    "children": [
+                      {
+                        "name": "QUIZ + EXAM [Equations_Questions Only].pdf",
+                        "id": "1J05E14iXSCMmTnTYl-TbCD4CpQuVj9Wt",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2111306,
+                          "kb": 2061.82,
+                          "mb": 2.01,
+                          "gb": 0.002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1J05E14iXSCMmTnTYl-TbCD4CpQuVj9Wt/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-25 05:18:38.488",
+                        "createdTime": "2025-07-25 05:18:38.488"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 1
+                    },
+                    "sizeDistribution": {
+                      "small": 0,
+                      "medium": 1,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  },
+                  {
+                    "name": "PSET BORDERLINE FOR SUMMER.docx",
+                    "id": "1CUDF13qZyUrUNCwy34vB53GMSOBATKBF",
+                    "type": "file",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "category": "documents",
+                    "size": {
+                      "bytes": 21906,
+                      "kb": 21.39,
+                      "mb": 0.02,
+                      "gb": 0.0
+                    },
+                    "driveLink": "https://docs.google.com/document/d/1CUDF13qZyUrUNCwy34vB53GMSOBATKBF/edit?usp=drivesdk&ouid=110034124292319530640&rtpof=true&sd=true",
+                    "modifiedTime": "2025-07-23 07:11:25",
+                    "createdTime": "2025-07-23 07:13:45.449"
+                  },
+                  {
+                    "name": "PSETS",
+                    "id": "14qudtJIf62uVfMldd13E18t4r_kavgAV",
+                    "type": "folder",
+                    "driveLink": "https://drive.google.com/drive/folders/14qudtJIf62uVfMldd13E18t4r_kavgAV",
+                    "description": "",
+                    "fileCount": 13,
+                    "folderCount": 0,
+                    "totalSizeMB": 16.79,
+                    "lastUpdated": "2025-07-26 02:27:47.849",
+                    "children": [
+                      {
+                        "name": "PSET#10 [Partial Fraction].pdf",
+                        "id": "1abyCyai5L4E7zyNJ6cUmWxefcohGCSFZ",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 967234,
+                          "kb": 944.56,
+                          "mb": 0.92,
+                          "gb": 0.0009
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1abyCyai5L4E7zyNJ6cUmWxefcohGCSFZ/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-26 02:27:47.849",
+                        "createdTime": "2025-07-26 02:27:47.849"
+                      },
+                      {
+                        "name": "PSET#11 [Definite Integral].pdf",
+                        "id": "14MnN0mMah-YR9LCvoH5zppwWgxDbIilH",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 504064,
+                          "kb": 492.25,
+                          "mb": 0.48,
+                          "gb": 0.0005
+                        },
+                        "driveLink": "https://drive.google.com/file/d/14MnN0mMah-YR9LCvoH5zppwWgxDbIilH/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-26 02:27:47.629",
+                        "createdTime": "2025-07-26 02:27:47.629"
+                      },
+                      {
+                        "name": "PSET#9 [Trigo Substitution].pdf",
+                        "id": "1Fj9TN3uehJHuCx_0aEeIy03rBw9lMQRB",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 778535,
+                          "kb": 760.29,
+                          "mb": 0.74,
+                          "gb": 0.0007
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1Fj9TN3uehJHuCx_0aEeIy03rBw9lMQRB/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-26 02:27:47.576",
+                        "createdTime": "2025-07-26 02:27:47.576"
+                      },
+                      {
+                        "name": "PSET#13 [Volumes].pdf",
+                        "id": "1UsJxrvCcVJeXsjhV3Bd4GUbPZnixq3xG",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1014473,
+                          "kb": 990.7,
+                          "mb": 0.97,
+                          "gb": 0.0009
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1UsJxrvCcVJeXsjhV3Bd4GUbPZnixq3xG/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-23 14:46:49.746",
+                        "createdTime": "2025-07-23 14:46:49.746"
+                      },
+                      {
+                        "name": "PSET#12 [Wallis Formula].pdf",
+                        "id": "1UxveAi8wMk0JM8wzFmEEclHb23MLu4H8",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 223458,
+                          "kb": 218.22,
+                          "mb": 0.21,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1UxveAi8wMk0JM8wzFmEEclHb23MLu4H8/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-23 01:33:30.089",
+                        "createdTime": "2025-07-23 01:33:30.089"
+                      },
+                      {
+                        "name": "PSET#4 [Trigonometric].pdf",
+                        "id": "1fcfgCMYuRryPiCzYnnDmmIL6-5IiLyrR",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1868670,
+                          "kb": 1824.87,
+                          "mb": 1.78,
+                          "gb": 0.0017
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1fcfgCMYuRryPiCzYnnDmmIL6-5IiLyrR/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-08 15:19:12.480",
+                        "createdTime": "2025-06-24 02:49:00.334"
+                      },
+                      {
+                        "name": "PSET#8 [Algebraic Substitution].pdf",
+                        "id": "1sZswig7v20xKJqnddUzaQQCckvSY5c2j",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2768508,
+                          "kb": 2703.62,
+                          "mb": 2.64,
+                          "gb": 0.0026
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1sZswig7v20xKJqnddUzaQQCckvSY5c2j/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-08 13:50:32.900",
+                        "createdTime": "2025-07-08 13:50:32.900"
+                      },
+                      {
+                        "name": "PSET#6 [Inverse Trigo].pdf",
+                        "id": "1iQa2lwzx403Lev-qUI6Aqrlx1lDXfKGe",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1636821,
+                          "kb": 1598.46,
+                          "mb": 1.56,
+                          "gb": 0.0015
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1iQa2lwzx403Lev-qUI6Aqrlx1lDXfKGe/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-08 13:50:31.878",
+                        "createdTime": "2025-07-08 13:50:31.878"
+                      },
+                      {
+                        "name": "PSET#7 [Integration by Parts].pdf",
+                        "id": "1Z_TtkwkJWqrlAUXbevqCiJM4P5IxuLxO",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2076934,
+                          "kb": 2028.26,
+                          "mb": 1.98,
+                          "gb": 0.0019
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1Z_TtkwkJWqrlAUXbevqCiJM4P5IxuLxO/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-06 15:06:15.372",
+                        "createdTime": "2025-07-06 15:06:15.372"
+                      },
+                      {
+                        "name": "PSET#5 [Trigo involving Powers].pdf",
+                        "id": "1qgHZugZueZKIehvcDaTmRpPR7Y4mvvTd",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 265449,
+                          "kb": 259.23,
+                          "mb": 0.25,
+                          "gb": 0.0002
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1qgHZugZueZKIehvcDaTmRpPR7Y4mvvTd/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-04 15:12:37.624",
+                        "createdTime": "2025-07-03 12:19:39.497"
+                      },
+                      {
+                        "name": "PSET#3 [Exponential].pdf",
+                        "id": "1-wrff4KT37vDFDMDwRVpPe3_Q_oHL1jj",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1421173,
+                          "kb": 1387.86,
+                          "mb": 1.36,
+                          "gb": 0.0013
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1-wrff4KT37vDFDMDwRVpPe3_Q_oHL1jj/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-04 15:12:14.942",
+                        "createdTime": "2025-06-18 06:14:58.634"
+                      },
+                      {
+                        "name": "PSET#2 [Logarithms].pdf",
+                        "id": "1xPOHVsn_4bc2JKToqNdjjHv_4bJVFxKP",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 2312336,
+                          "kb": 2258.14,
+                          "mb": 2.21,
+                          "gb": 0.0022
+                        },
+                        "driveLink": "https://drive.google.com/file/d/1xPOHVsn_4bc2JKToqNdjjHv_4bJVFxKP/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-04 15:12:05.556",
+                        "createdTime": "2025-06-18 06:14:59.485"
+                      },
+                      {
+                        "name": "PSET#1 [Indefinite Integral].pdf",
+                        "id": "18rc6FFiu3HxHVW3u-DCDdgE1AT1iI8Mz",
+                        "type": "file",
+                        "mimeType": "application/pdf",
+                        "category": "documents",
+                        "size": {
+                          "bytes": 1771194,
+                          "kb": 1729.68,
+                          "mb": 1.69,
+                          "gb": 0.0016
+                        },
+                        "driveLink": "https://drive.google.com/file/d/18rc6FFiu3HxHVW3u-DCDdgE1AT1iI8Mz/view?usp=drivesdk",
+                        "modifiedTime": "2025-07-04 15:11:54.840",
+                        "createdTime": "2025-06-16 03:03:41.525"
+                      }
+                    ],
+                    "fileTypes": {
+                      "documents": 13
+                    },
+                    "sizeDistribution": {
+                      "small": 6,
+                      "medium": 7,
+                      "large": 0,
+                      "huge": 0
+                    }
+                  }
+                ],
+                "fileTypes": {
+                  "documents": 18
+                },
+                "sizeDistribution": {
+                  "small": 7,
+                  "medium": 10,
+                  "large": 1,
+                  "huge": 0
+                }
+              }
+            ],
+            "fileTypes": {
+              "documents": 18
+            },
+            "sizeDistribution": {
+              "small": 7,
+              "medium": 10,
+              "large": 1,
+              "huge": 0
+            }
+          }
+        ],
+        "fileTypes": {
+          "documents": 60,
+          "videos": 1
+        },
+        "sizeDistribution": {
+          "small": 21,
+          "medium": 35,
+          "large": 5,
+          "huge": 0
+        }
+      }
+    ],
+    "fileTypes": {
+      "documents": 68,
+      "videos": 1
+    },
+    "sizeDistribution": {
+      "small": 22,
+      "medium": 40,
+      "large": 7,
+      "huge": 0
+    }
+  }
+}

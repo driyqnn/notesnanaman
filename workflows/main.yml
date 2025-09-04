@@ -1,0 +1,49 @@
+name: Drive Scanner
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write # Allow creating files and committing
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+      - name: Run scanner
+        run: python main.py
+
+      - name: Commit scan results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update drive scan results - $(date)"
+            git push
+          fi
+
+      - name: Upload scan output
+        uses: actions/upload-artifact@v4
+        with:
+          name: drive-scan-output
+          path: |
+            public/data.json
+            public/scan_history.json
