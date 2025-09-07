@@ -1,20 +1,14 @@
 {
   "scan_history": {
     "version": "1.1.5",
-    "scan_date": "2025-09-07T11:02:27.369757+08:00",
+    "scan_date": "2025-09-07T12:21:38.394976+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC",
-          "name": "DE MODULE 1.pdf",
-          "size": 1044977
-        }
-      ],
+      "added_files": [],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 1,
-      "summary": "1 files added"
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
       "fileCount": 70,
@@ -2233,7 +2227,7 @@
   "version_history": [
     {
       "version": "1.1.5",
-      "scan_date": "2025-09-07T11:02:27.369757+08:00",
+      "scan_date": "2025-09-07T12:21:38.394976+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
