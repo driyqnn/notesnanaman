@@ -1,20 +1,26 @@
 {
   "scan_history": {
-    "version": "1.1.4",
-    "scan_date": "2025-09-07T09:37:48.286544+08:00",
+    "version": "1.1.5",
+    "scan_date": "2025-09-07T11:02:27.369757+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
+      "added_files": [
+        {
+          "id": "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC",
+          "name": "DE MODULE 1.pdf",
+          "size": 1044977
+        }
+      ],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 1,
+      "summary": "1 files added"
     },
     "data": {
-      "fileCount": 69,
+      "fileCount": 70,
       "folderCount": 30,
-      "totalSizeMB": 344.53,
-      "lastUpdated": "2025-09-02 11:08:08.763",
+      "totalSizeMB": 345.53,
+      "lastUpdated": "2025-09-07 02:39:48.983",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -60,10 +66,10 @@
           "type": "folder",
           "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
           "description": "",
-          "fileCount": 8,
+          "fileCount": 9,
           "folderCount": 6,
-          "totalSizeMB": 112.41,
-          "lastUpdated": "2025-09-02 11:08:08.763",
+          "totalSizeMB": 113.41,
+          "lastUpdated": "2025-09-07 02:39:48.983",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -90,22 +96,38 @@
               "type": "folder",
               "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
               "description": "",
-              "fileCount": 8,
+              "fileCount": 9,
               "folderCount": 4,
-              "totalSizeMB": 112.41,
-              "lastUpdated": "2025-09-02 11:08:08.763",
+              "totalSizeMB": 113.41,
+              "lastUpdated": "2025-09-07 02:39:48.983",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
                   "id": "1omwNelgMtl_jKx5aEabB8bwZNJZOy0a-",
                   "type": "folder",
                   "driveLink": "https://drive.google.com/drive/folders/1omwNelgMtl_jKx5aEabB8bwZNJZOy0a-",
-                  "description": "Engr. Michael Jude Alvarez",
-                  "fileCount": 2,
+                  "description": "Engr. Michael Jude Laverez",
+                  "fileCount": 3,
                   "folderCount": 0,
-                  "totalSizeMB": 31.63,
-                  "lastUpdated": "2025-08-17 13:16:01.208",
+                  "totalSizeMB": 32.63,
+                  "lastUpdated": "2025-09-07 02:39:48.983",
                   "children": [
+                    {
+                      "name": "DE MODULE 1.pdf",
+                      "id": "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC",
+                      "type": "file",
+                      "mimeType": "application/pdf",
+                      "category": "documents",
+                      "size": {
+                        "bytes": 1044977,
+                        "kb": 1020.49,
+                        "mb": 1.0,
+                        "gb": 0.001
+                      },
+                      "driveLink": "https://drive.google.com/file/d/18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC/view?usp=drivesdk",
+                      "modifiedTime": "2025-09-07 02:39:48.983",
+                      "createdTime": "2025-09-07 02:39:48.923"
+                    },
                     {
                       "name": "Elementary Differential Equations 7th Edition by Earl D. Rainville.pdf",
                       "id": "1JhYIs3soZCUItilVJA9WK4Z03vjK1lkf",
@@ -140,10 +162,10 @@
                     }
                   ],
                   "fileTypes": {
-                    "documents": 2
+                    "documents": 3
                   },
                   "sizeDistribution": {
-                    "small": 0,
+                    "small": 1,
                     "medium": 1,
                     "large": 1,
                     "huge": 0
@@ -313,10 +335,10 @@
                 }
               ],
               "fileTypes": {
-                "documents": 8
+                "documents": 9
               },
               "sizeDistribution": {
-                "small": 1,
+                "small": 2,
                 "medium": 5,
                 "large": 2,
                 "huge": 0
@@ -324,10 +346,10 @@
             }
           ],
           "fileTypes": {
-            "documents": 8
+            "documents": 9
           },
           "sizeDistribution": {
-            "small": 1,
+            "small": 2,
             "medium": 5,
             "large": 2,
             "huge": 0
@@ -1773,17 +1795,23 @@
         }
       ],
       "fileTypes": {
-        "documents": 68,
+        "documents": 69,
         "videos": 1
       },
       "sizeDistribution": {
-        "small": 22,
+        "small": 23,
         "medium": 40,
         "large": 7,
         "huge": 0
       }
     },
     "file_signatures": {
+      "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC": {
+        "signature": "f76541533070b24a8859c6857bfd4c81",
+        "name": "DE MODULE 1.pdf",
+        "size": 1044977,
+        "modified": "2025-09-07 02:39:48.983"
+      },
       "1JhYIs3soZCUItilVJA9WK4Z03vjK1lkf": {
         "signature": "c861caf14179f8dec507e57c355c8fd1",
         "name": "Elementary Differential Equations 7th Edition by Earl D. Rainville.pdf",
@@ -2199,10 +2227,33 @@
         "modified": "2025-07-04 15:11:54.840"
       }
     },
-    "total_files": 69,
+    "total_files": 70,
     "total_folders": 30
   },
   "version_history": [
+    {
+      "version": "1.1.5",
+      "scan_date": "2025-09-07T11:02:27.369757+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC",
+            "name": "DE MODULE 1.pdf",
+            "size": 1044977
+          }
+        ],
+        "deleted_files": [],
+        "modified_files": [],
+        "total_changes": 1,
+        "summary": "1 files added"
+      },
+      "stats": {
+        "totalFiles": 70,
+        "totalFolders": 30,
+        "totalSizeMB": 345.53
+      }
+    },
     {
       "version": "1.1.4",
       "scan_date": "2025-09-07T09:37:48.286544+08:00",
