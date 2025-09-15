@@ -1,18 +1,18 @@
 {
-  "version": "1.1.6",
-  "scan_date": "2025-09-15T16:26:42.793440+08:00",
+  "version": "1.1.7",
+  "scan_date": "2025-09-15T17:22:43.041549+08:00",
   "scanner_version": "1.0.0",
   "stats": {
     "totalFiles": 71,
     "totalFolders": 30,
-    "totalSizeMB": 345.98,
+    "totalSizeMB": 346.45,
     "apiCallsCount": 61
   },
   "data": {
     "fileCount": 71,
     "folderCount": 30,
-    "totalSizeMB": 345.98,
-    "lastUpdated": "2025-09-13 01:34:35.842",
+    "totalSizeMB": 346.45,
+    "lastUpdated": "2025-09-15 08:50:17.782",
     "children": [
       {
         "name": "FOURTH YEAR",
@@ -60,8 +60,8 @@
         "description": "",
         "fileCount": 10,
         "folderCount": 6,
-        "totalSizeMB": 113.86,
-        "lastUpdated": "2025-09-13 01:34:35.842",
+        "totalSizeMB": 114.33,
+        "lastUpdated": "2025-09-15 08:50:17.782",
         "children": [
           {
             "name": "SECOND SEMESTER",
@@ -90,8 +90,8 @@
             "description": "",
             "fileCount": 10,
             "folderCount": 4,
-            "totalSizeMB": 113.86,
-            "lastUpdated": "2025-09-13 01:34:35.842",
+            "totalSizeMB": 114.33,
+            "lastUpdated": "2025-09-15 08:50:17.782",
             "children": [
               {
                 "name": "DIFFERENTIAL EQUATIONS",
@@ -171,8 +171,8 @@
                 "description": "Engr. Gilda Borbon",
                 "fileCount": 6,
                 "folderCount": 1,
-                "totalSizeMB": 80.16,
-                "lastUpdated": "2025-09-13 01:34:35.842",
+                "totalSizeMB": 80.63,
+                "lastUpdated": "2025-09-15 08:50:17.782",
                 "children": [
                   {
                     "name": "NOTES [MECH 211].pdf",
@@ -198,24 +198,24 @@
                     "description": "",
                     "fileCount": 3,
                     "folderCount": 0,
-                    "totalSizeMB": 3.17,
-                    "lastUpdated": "2025-09-13 01:34:35.842",
+                    "totalSizeMB": 3.64,
+                    "lastUpdated": "2025-09-15 08:50:17.782",
                     "children": [
                       {
-                        "name": "PSET#3 [Moment of a Force] Incomplete.pdf",
-                        "id": "1i5zkzeX-JVWY77Fygti5y8uE0bjmM2KV",
+                        "name": "PSET#3 [Moment of a Force].pdf",
+                        "id": "1URaM5CfHGovhAH5aox4DRJX7L2H5guD7",
                         "type": "file",
                         "mimeType": "application/pdf",
                         "category": "documents",
                         "size": {
-                          "bytes": 470676,
-                          "kb": 459.64,
-                          "mb": 0.45,
-                          "gb": 0.0004
+                          "bytes": 971604,
+                          "kb": 948.83,
+                          "mb": 0.93,
+                          "gb": 0.0009
                         },
-                        "driveLink": "https://drive.google.com/file/d/1i5zkzeX-JVWY77Fygti5y8uE0bjmM2KV/view?usp=drivesdk",
-                        "modifiedTime": "2025-09-13 01:34:35.842",
-                        "createdTime": "2025-09-13 01:34:35.705"
+                        "driveLink": "https://drive.google.com/file/d/1URaM5CfHGovhAH5aox4DRJX7L2H5guD7/view?usp=drivesdk",
+                        "modifiedTime": "2025-09-15 08:50:17.782",
+                        "createdTime": "2025-09-15 08:50:17.782"
                       },
                       {
                         "name": "PSET#2 [Resultants of the Force Systems].pdf",
