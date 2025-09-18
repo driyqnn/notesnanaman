@@ -1,7 +1,7 @@
 {
   "scan_history": {
     "version": "1.1.7",
-    "scan_date": "2025-09-19T06:15:43.472144+08:00",
+    "scan_date": "2025-09-19T07:17:21.258943+08:00",
     "scanner_version": "1.0.0",
     "changes": {
       "added_files": [],
@@ -274,7 +274,7 @@
                         "mb": 0.02,
                         "gb": 0.0
                       },
-                      "driveLink": "https://docs.google.com/document/d/1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j/edit?usp=drivesdk&ouid=110034124292319530640&rtpof=true&sd=true",
+                      "driveLink": "https://docs.google.com/document/d/1VPgjtaAFOXyWHM93adK2ruW4iOyqEg9j/edit?usp=drivesdk&rtpof=true&sd=true",
                       "modifiedTime": "2025-08-15 12:37:20.525",
                       "createdTime": "2025-08-15 12:37:20.363"
                     },
@@ -2249,7 +2249,7 @@
   "version_history": [
     {
       "version": "1.1.7",
-      "scan_date": "2025-09-19T06:15:43.472144+08:00",
+      "scan_date": "2025-09-19T07:17:21.258943+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
