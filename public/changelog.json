@@ -1,20 +1,26 @@
 {
   "scan_history": {
-    "version": "1.1.7",
-    "scan_date": "2025-09-20T09:22:22.959829+08:00",
+    "version": "1.1.8",
+    "scan_date": "2025-09-20T10:37:20.999801+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
+      "added_files": [
+        {
+          "id": "1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf",
+          "name": "SURVEYING for CIVIL and GEODETIC Licensure Exam by Besavilla.pdf",
+          "size": 29209511
+        }
+      ],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 1,
+      "summary": "1 files added"
     },
     "data": {
-      "fileCount": 71,
+      "fileCount": 72,
       "folderCount": 30,
-      "totalSizeMB": 346.45,
-      "lastUpdated": "2025-09-15 08:50:17.782",
+      "totalSizeMB": 374.31,
+      "lastUpdated": "2025-09-20 02:27:12.055",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -60,10 +66,10 @@
           "type": "folder",
           "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
           "description": "",
-          "fileCount": 10,
+          "fileCount": 11,
           "folderCount": 6,
-          "totalSizeMB": 114.33,
-          "lastUpdated": "2025-09-15 08:50:17.782",
+          "totalSizeMB": 142.19,
+          "lastUpdated": "2025-09-20 02:27:12.055",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -90,10 +96,10 @@
               "type": "folder",
               "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
               "description": "",
-              "fileCount": 10,
+              "fileCount": 11,
               "folderCount": 4,
-              "totalSizeMB": 114.33,
-              "lastUpdated": "2025-09-15 08:50:17.782",
+              "totalSizeMB": 142.19,
+              "lastUpdated": "2025-09-20 02:27:12.055",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
@@ -311,11 +317,27 @@
                   "type": "folder",
                   "driveLink": "https://drive.google.com/drive/folders/1-EnkWBdJByT1d0iIKAHfmo-XtXO4CPWw",
                   "description": "Engr. Joel Villaruz",
-                  "fileCount": 1,
+                  "fileCount": 2,
                   "folderCount": 0,
-                  "totalSizeMB": 1.07,
-                  "lastUpdated": "2025-08-18 08:15:45.893",
+                  "totalSizeMB": 28.93,
+                  "lastUpdated": "2025-09-20 02:27:12.055",
                   "children": [
+                    {
+                      "name": "SURVEYING for CIVIL and GEODETIC Licensure Exam by Besavilla.pdf",
+                      "id": "1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf",
+                      "type": "file",
+                      "mimeType": "application/pdf",
+                      "category": "documents",
+                      "size": {
+                        "bytes": 29209511,
+                        "kb": 28524.91,
+                        "mb": 27.86,
+                        "gb": 0.0272
+                      },
+                      "driveLink": "https://drive.google.com/file/d/1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf/view?usp=drivesdk",
+                      "modifiedTime": "2025-09-20 02:27:12.055",
+                      "createdTime": "2025-09-20 02:27:12.055"
+                    },
                     {
                       "name": "NOTES [SURV 211].pdf",
                       "id": "10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE",
@@ -334,34 +356,34 @@
                     }
                   ],
                   "fileTypes": {
-                    "documents": 1
+                    "documents": 2
                   },
                   "sizeDistribution": {
                     "small": 0,
                     "medium": 1,
-                    "large": 0,
+                    "large": 1,
                     "huge": 0
                   }
                 }
               ],
               "fileTypes": {
-                "documents": 10
+                "documents": 11
               },
               "sizeDistribution": {
                 "small": 3,
                 "medium": 5,
-                "large": 2,
+                "large": 3,
                 "huge": 0
               }
             }
           ],
           "fileTypes": {
-            "documents": 10
+            "documents": 11
           },
           "sizeDistribution": {
             "small": 3,
             "medium": 5,
-            "large": 2,
+            "large": 3,
             "huge": 0
           }
         },
@@ -1805,13 +1827,13 @@
         }
       ],
       "fileTypes": {
-        "documents": 70,
+        "documents": 71,
         "videos": 1
       },
       "sizeDistribution": {
         "small": 24,
         "medium": 40,
-        "large": 7,
+        "large": 8,
         "huge": 0
       }
     },
@@ -1869,6 +1891,12 @@
         "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
         "size": 77603679,
         "modified": "2025-08-14 13:00:25.411"
+      },
+      "1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf": {
+        "signature": "17fdc34ab383ed520a1b689a59ceb3aa",
+        "name": "SURVEYING for CIVIL and GEODETIC Licensure Exam by Besavilla.pdf",
+        "size": 29209511,
+        "modified": "2025-09-20 02:27:12.055"
       },
       "10z8p1Pl29fNQpSGE6k32kU8t0TLRjDwE": {
         "signature": "9439b02f79aab37991eed4aef0bed10e",
@@ -2243,10 +2271,33 @@
         "modified": "2025-07-04 15:11:54.840"
       }
     },
-    "total_files": 71,
+    "total_files": 72,
     "total_folders": 30
   },
   "version_history": [
+    {
+      "version": "1.1.8",
+      "scan_date": "2025-09-20T10:37:20.999801+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf",
+            "name": "SURVEYING for CIVIL and GEODETIC Licensure Exam by Besavilla.pdf",
+            "size": 29209511
+          }
+        ],
+        "deleted_files": [],
+        "modified_files": [],
+        "total_changes": 1,
+        "summary": "1 files added"
+      },
+      "stats": {
+        "totalFiles": 72,
+        "totalFolders": 30,
+        "totalSizeMB": 374.31
+      }
+    },
     {
       "version": "1.1.7",
       "scan_date": "2025-09-20T09:22:22.959829+08:00",
