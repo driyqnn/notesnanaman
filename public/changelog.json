@@ -1,20 +1,26 @@
 {
   "scan_history": {
-    "version": "1.1.8",
-    "scan_date": "2025-09-26T20:40:23.888902+08:00",
+    "version": "1.1.9",
+    "scan_date": "2025-09-26T21:27:27.859254+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
+      "added_files": [
+        {
+          "id": "1zpnrJL7BSM2A0oKuhFLJdmwtGtFLSLnK",
+          "name": "ambot.pdf",
+          "size": 2474576
+        }
+      ],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 1,
+      "summary": "1 files added"
     },
     "data": {
-      "fileCount": 72,
-      "folderCount": 30,
-      "totalSizeMB": 374.31,
-      "lastUpdated": "2025-09-20 02:27:12.055",
+      "fileCount": 73,
+      "folderCount": 31,
+      "totalSizeMB": 376.67,
+      "lastUpdated": "2025-09-26 13:26:06.819",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -60,10 +66,10 @@
           "type": "folder",
           "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
           "description": "",
-          "fileCount": 11,
-          "folderCount": 6,
-          "totalSizeMB": 142.19,
-          "lastUpdated": "2025-09-20 02:27:12.055",
+          "fileCount": 12,
+          "folderCount": 7,
+          "totalSizeMB": 144.55,
+          "lastUpdated": "2025-09-26 13:26:06.819",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -90,10 +96,10 @@
               "type": "folder",
               "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
               "description": "",
-              "fileCount": 11,
-              "folderCount": 4,
-              "totalSizeMB": 142.19,
-              "lastUpdated": "2025-09-20 02:27:12.055",
+              "fileCount": 12,
+              "folderCount": 5,
+              "totalSizeMB": 144.55,
+              "lastUpdated": "2025-09-26 13:26:06.819",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
@@ -311,11 +317,49 @@
                   "type": "folder",
                   "driveLink": "https://drive.google.com/drive/folders/1-EnkWBdJByT1d0iIKAHfmo-XtXO4CPWw",
                   "description": "Engr. Joel Villaruz",
-                  "fileCount": 2,
-                  "folderCount": 0,
-                  "totalSizeMB": 28.93,
-                  "lastUpdated": "2025-09-20 02:27:12.055",
+                  "fileCount": 3,
+                  "folderCount": 1,
+                  "totalSizeMB": 31.29,
+                  "lastUpdated": "2025-09-26 13:26:06.819",
                   "children": [
+                    {
+                      "name": "LIBRO",
+                      "id": "1ebz2mBn_7t-gr3wxHrgAX_XIb-bFs_D3",
+                      "type": "folder",
+                      "driveLink": "https://drive.google.com/drive/folders/1ebz2mBn_7t-gr3wxHrgAX_XIb-bFs_D3",
+                      "description": "",
+                      "fileCount": 1,
+                      "folderCount": 0,
+                      "totalSizeMB": 2.36,
+                      "lastUpdated": "2025-09-26 13:26:06.819",
+                      "children": [
+                        {
+                          "name": "ambot.pdf",
+                          "id": "1zpnrJL7BSM2A0oKuhFLJdmwtGtFLSLnK",
+                          "type": "file",
+                          "mimeType": "application/pdf",
+                          "category": "documents",
+                          "size": {
+                            "bytes": 2474576,
+                            "kb": 2416.58,
+                            "mb": 2.36,
+                            "gb": 0.0023
+                          },
+                          "driveLink": "https://drive.google.com/file/d/1zpnrJL7BSM2A0oKuhFLJdmwtGtFLSLnK/view?usp=drivesdk",
+                          "modifiedTime": "2025-09-26 13:26:06.819",
+                          "createdTime": "2025-09-26 13:26:06.670"
+                        }
+                      ],
+                      "fileTypes": {
+                        "documents": 1
+                      },
+                      "sizeDistribution": {
+                        "small": 0,
+                        "medium": 1,
+                        "large": 0,
+                        "huge": 0
+                      }
+                    },
                     {
                       "name": "SURVEYING for CIVIL and GEODETIC Licensure Exam by Besavilla.pdf",
                       "id": "1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf",
@@ -350,33 +394,33 @@
                     }
                   ],
                   "fileTypes": {
-                    "documents": 2
+                    "documents": 3
                   },
                   "sizeDistribution": {
                     "small": 0,
-                    "medium": 1,
+                    "medium": 2,
                     "large": 1,
                     "huge": 0
                   }
                 }
               ],
               "fileTypes": {
-                "documents": 11
+                "documents": 12
               },
               "sizeDistribution": {
                 "small": 3,
-                "medium": 5,
+                "medium": 6,
                 "large": 3,
                 "huge": 0
               }
             }
           ],
           "fileTypes": {
-            "documents": 11
+            "documents": 12
           },
           "sizeDistribution": {
             "small": 3,
-            "medium": 5,
+            "medium": 6,
             "large": 3,
             "huge": 0
           }
@@ -1821,12 +1865,12 @@
         }
       ],
       "fileTypes": {
-        "documents": 71,
+        "documents": 72,
         "videos": 1
       },
       "sizeDistribution": {
         "small": 24,
-        "medium": 40,
+        "medium": 41,
         "large": 8,
         "huge": 0
       }
@@ -1885,6 +1929,12 @@
         "name": "Engineering Mechanics by Ferdinand Singer 2nd Edition.pdf",
         "size": 77603679,
         "modified": "2025-08-14 13:00:25.411"
+      },
+      "1zpnrJL7BSM2A0oKuhFLJdmwtGtFLSLnK": {
+        "signature": "59d8bf066ec6ac91923a7a21804265cd",
+        "name": "ambot.pdf",
+        "size": 2474576,
+        "modified": "2025-09-26 13:26:06.819"
       },
       "1pYPNaCQkWcFuIwnZZhDDDRxMyuiRdgEf": {
         "signature": "17fdc34ab383ed520a1b689a59ceb3aa",
@@ -2265,10 +2315,33 @@
         "modified": "2025-07-04 15:11:54.840"
       }
     },
-    "total_files": 72,
-    "total_folders": 30
+    "total_files": 73,
+    "total_folders": 31
   },
   "version_history": [
+    {
+      "version": "1.1.9",
+      "scan_date": "2025-09-26T21:27:27.859254+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1zpnrJL7BSM2A0oKuhFLJdmwtGtFLSLnK",
+            "name": "ambot.pdf",
+            "size": 2474576
+          }
+        ],
+        "deleted_files": [],
+        "modified_files": [],
+        "total_changes": 1,
+        "summary": "1 files added"
+      },
+      "stats": {
+        "totalFiles": 73,
+        "totalFolders": 31,
+        "totalSizeMB": 376.67
+      }
+    },
     {
       "version": "1.1.8",
       "scan_date": "2025-09-26T20:40:23.888902+08:00",
