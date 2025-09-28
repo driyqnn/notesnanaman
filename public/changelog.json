@@ -1,20 +1,32 @@
 {
   "scan_history": {
-    "version": "1.2.0",
-    "scan_date": "2025-09-28T12:22:21.252819+08:00",
+    "version": "1.2.1",
+    "scan_date": "2025-09-28T13:17:38.203593+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
-      "deleted_files": [],
+      "added_files": [
+        {
+          "id": "1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra",
+          "name": "PSET.pdf",
+          "size": 8601560
+        }
+      ],
+      "deleted_files": [
+        {
+          "id": "105Cn3M87DH_TC0cdnCfUTn3qxhuDwB7V",
+          "name": "PSET.pdf",
+          "size": 0
+        }
+      ],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 2,
+      "summary": "1 files added, 1 files deleted"
     },
     "data": {
       "fileCount": 74,
       "folderCount": 31,
-      "totalSizeMB": 376.67,
-      "lastUpdated": "2025-09-28 03:47:53.366",
+      "totalSizeMB": 384.87,
+      "lastUpdated": "2025-09-28 05:06:13.074",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -62,8 +74,8 @@
           "description": "",
           "fileCount": 13,
           "folderCount": 7,
-          "totalSizeMB": 144.55,
-          "lastUpdated": "2025-09-28 03:47:53.366",
+          "totalSizeMB": 152.75,
+          "lastUpdated": "2025-09-28 05:06:13.074",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -92,8 +104,8 @@
               "description": "",
               "fileCount": 13,
               "folderCount": 5,
-              "totalSizeMB": 144.55,
-              "lastUpdated": "2025-09-28 03:47:53.366",
+              "totalSizeMB": 152.75,
+              "lastUpdated": "2025-09-28 05:06:13.074",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
@@ -103,24 +115,24 @@
                   "description": "Engr. Michael Jude Laverez",
                   "fileCount": 4,
                   "folderCount": 0,
-                  "totalSizeMB": 32.63,
-                  "lastUpdated": "2025-09-28 03:47:53.366",
+                  "totalSizeMB": 40.83,
+                  "lastUpdated": "2025-09-28 05:06:13.074",
                   "children": [
                     {
                       "name": "PSET.pdf",
-                      "id": "105Cn3M87DH_TC0cdnCfUTn3qxhuDwB7V",
+                      "id": "1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra",
                       "type": "file",
                       "mimeType": "application/pdf",
                       "category": "documents",
                       "size": {
-                        "bytes": 0,
-                        "kb": 0.0,
-                        "mb": 0.0,
-                        "gb": 0.0
+                        "bytes": 8601560,
+                        "kb": 8399.96,
+                        "mb": 8.2,
+                        "gb": 0.008
                       },
-                      "driveLink": "https://drive.google.com/file/d/105Cn3M87DH_TC0cdnCfUTn3qxhuDwB7V/view?usp=drivesdk",
-                      "modifiedTime": "2025-09-28 03:47:53.366",
-                      "createdTime": "2025-09-28 03:47:53.366"
+                      "driveLink": "https://drive.google.com/file/d/1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra/view?usp=drivesdk",
+                      "modifiedTime": "2025-09-28 05:06:13.074",
+                      "createdTime": "2025-09-28 05:06:13.074"
                     },
                     {
                       "name": "DE MODULE 1.pdf",
@@ -175,8 +187,8 @@
                     "documents": 4
                   },
                   "sizeDistribution": {
-                    "small": 2,
-                    "medium": 1,
+                    "small": 1,
+                    "medium": 2,
                     "large": 1,
                     "huge": 0
                   }
@@ -418,8 +430,8 @@
                 "documents": 13
               },
               "sizeDistribution": {
-                "small": 4,
-                "medium": 6,
+                "small": 3,
+                "medium": 7,
                 "large": 3,
                 "huge": 0
               }
@@ -429,8 +441,8 @@
             "documents": 13
           },
           "sizeDistribution": {
-            "small": 4,
-            "medium": 6,
+            "small": 3,
+            "medium": 7,
             "large": 3,
             "huge": 0
           }
@@ -1879,18 +1891,18 @@
         "videos": 1
       },
       "sizeDistribution": {
-        "small": 25,
-        "medium": 41,
+        "small": 24,
+        "medium": 42,
         "large": 8,
         "huge": 0
       }
     },
     "file_signatures": {
-      "105Cn3M87DH_TC0cdnCfUTn3qxhuDwB7V": {
-        "signature": "2377b81c3982bba685d5175651e6f9a4",
+      "1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra": {
+        "signature": "ad2bc4cc33a368a5780da3dce4a70961",
         "name": "PSET.pdf",
-        "size": 0,
-        "modified": "2025-09-28 03:47:53.366"
+        "size": 8601560,
+        "modified": "2025-09-28 05:06:13.074"
       },
       "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC": {
         "signature": "f76541533070b24a8859c6857bfd4c81",
@@ -2335,6 +2347,35 @@
     "total_folders": 31
   },
   "version_history": [
+    {
+      "version": "1.2.1",
+      "scan_date": "2025-09-28T13:17:38.203593+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra",
+            "name": "PSET.pdf",
+            "size": 8601560
+          }
+        ],
+        "deleted_files": [
+          {
+            "id": "105Cn3M87DH_TC0cdnCfUTn3qxhuDwB7V",
+            "name": "PSET.pdf",
+            "size": 0
+          }
+        ],
+        "modified_files": [],
+        "total_changes": 2,
+        "summary": "1 files added, 1 files deleted"
+      },
+      "stats": {
+        "totalFiles": 74,
+        "totalFolders": 31,
+        "totalSizeMB": 384.87
+      }
+    },
     {
       "version": "1.2.0",
       "scan_date": "2025-09-28T12:22:21.252819+08:00",
