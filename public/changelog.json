@@ -1,26 +1,14 @@
 {
   "scan_history": {
     "version": "1.2.1",
-    "scan_date": "2025-09-28T13:17:38.203593+08:00",
+    "scan_date": "2025-09-28T14:27:04.874757+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra",
-          "name": "PSET.pdf",
-          "size": 8601560
-        }
-      ],
-      "deleted_files": [
-        {
-          "id": "105Cn3M87DH_TC0cdnCfUTn3qxhuDwB7V",
-          "name": "PSET.pdf",
-          "size": 0
-        }
-      ],
+      "added_files": [],
+      "deleted_files": [],
       "modified_files": [],
-      "total_changes": 2,
-      "summary": "1 files added, 1 files deleted"
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
       "fileCount": 74,
@@ -2349,7 +2337,7 @@
   "version_history": [
     {
       "version": "1.2.1",
-      "scan_date": "2025-09-28T13:17:38.203593+08:00",
+      "scan_date": "2025-09-28T14:27:04.874757+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
