@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "scan_date": "2025-11-07T04:23:27.816649+08:00",
+  "scan_date": "2025-11-07T05:18:33.968295+08:00",
   "scanner_version": "1.0.0",
   "stats": {
     "totalFiles": 74,
@@ -1603,7 +1603,7 @@
                       "mb": 0.02,
                       "gb": 0.0
                     },
-                    "driveLink": "https://docs.google.com/document/d/1CUDF13qZyUrUNCwy34vB53GMSOBATKBF/edit?usp=drivesdk&ouid=110034124292319530640&rtpof=true&sd=true",
+                    "driveLink": "https://docs.google.com/document/d/1CUDF13qZyUrUNCwy34vB53GMSOBATKBF/edit?usp=drivesdk&rtpof=true&sd=true",
                     "modifiedTime": "2025-07-23 07:11:25",
                     "createdTime": "2025-07-23 07:13:45.449"
                   },
