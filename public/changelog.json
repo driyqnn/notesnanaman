@@ -1,25 +1,14 @@
 {
   "scan_history": {
     "version": "1.2.2",
-    "scan_date": "2025-11-20T17:22:14.438310+08:00",
+    "scan_date": "2025-11-20T18:22:54.944540+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [
-        {
-          "id": "1a6-WwKyRmsfe91ds9vLaVmp7bKim_A4E",
-          "name": "PSET#7 [Resultant of Non-Concurrent Force Systems].pdf",
-          "size": 697322
-        },
-        {
-          "id": "1LCOHuBI5y3ACgrm4R0TEv1ZU7FIXJ1ul",
-          "name": "PSET#8 [Free-Body Diagrams].pdf",
-          "size": 350501
-        }
-      ],
+      "added_files": [],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 2,
-      "summary": "2 files added"
+      "total_changes": 0,
+      "summary": "No changes detected"
     },
     "data": {
       "fileCount": 76,
@@ -2392,7 +2381,7 @@
   "version_history": [
     {
       "version": "1.2.2",
-      "scan_date": "2025-11-20T17:22:14.438310+08:00",
+      "scan_date": "2025-11-20T18:22:54.944540+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
