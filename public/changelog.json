@@ -1,20 +1,31 @@
 {
   "scan_history": {
-    "version": "1.2.1",
-    "scan_date": "2025-11-20T16:29:07.861882+08:00",
+    "version": "1.2.2",
+    "scan_date": "2025-11-20T17:22:14.438310+08:00",
     "scanner_version": "1.0.0",
     "changes": {
-      "added_files": [],
+      "added_files": [
+        {
+          "id": "1a6-WwKyRmsfe91ds9vLaVmp7bKim_A4E",
+          "name": "PSET#7 [Resultant of Non-Concurrent Force Systems].pdf",
+          "size": 697322
+        },
+        {
+          "id": "1LCOHuBI5y3ACgrm4R0TEv1ZU7FIXJ1ul",
+          "name": "PSET#8 [Free-Body Diagrams].pdf",
+          "size": 350501
+        }
+      ],
       "deleted_files": [],
       "modified_files": [],
-      "total_changes": 0,
-      "summary": "No changes detected"
+      "total_changes": 2,
+      "summary": "2 files added"
     },
     "data": {
-      "fileCount": 74,
+      "fileCount": 76,
       "folderCount": 31,
-      "totalSizeMB": 384.87,
-      "lastUpdated": "2025-09-28 05:06:13.074",
+      "totalSizeMB": 385.87,
+      "lastUpdated": "2025-11-20 08:48:09.980",
       "children": [
         {
           "name": "FOURTH YEAR",
@@ -60,10 +71,10 @@
           "type": "folder",
           "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
           "description": "",
-          "fileCount": 13,
+          "fileCount": 15,
           "folderCount": 7,
-          "totalSizeMB": 152.75,
-          "lastUpdated": "2025-09-28 05:06:13.074",
+          "totalSizeMB": 153.75,
+          "lastUpdated": "2025-11-20 08:48:09.980",
           "children": [
             {
               "name": "SECOND SEMESTER",
@@ -90,10 +101,10 @@
               "type": "folder",
               "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
               "description": "",
-              "fileCount": 13,
+              "fileCount": 15,
               "folderCount": 5,
-              "totalSizeMB": 152.75,
-              "lastUpdated": "2025-09-28 05:06:13.074",
+              "totalSizeMB": 153.75,
+              "lastUpdated": "2025-11-20 08:48:09.980",
               "children": [
                 {
                   "name": "DIFFERENTIAL EQUATIONS",
@@ -187,10 +198,10 @@
                   "type": "folder",
                   "driveLink": "https://drive.google.com/drive/folders/1tAWwAK2PXgovmlb9FTHjNPMGG6GuE74D",
                   "description": "Engr. Gilda Borbon",
-                  "fileCount": 6,
+                  "fileCount": 8,
                   "folderCount": 1,
-                  "totalSizeMB": 80.63,
-                  "lastUpdated": "2025-09-15 08:50:17.782",
+                  "totalSizeMB": 81.63,
+                  "lastUpdated": "2025-11-20 08:48:09.980",
                   "children": [
                     {
                       "name": "NOTES [MECH 211].pdf",
@@ -214,11 +225,43 @@
                       "type": "folder",
                       "driveLink": "https://drive.google.com/drive/folders/1cdswpNkqihEpAtc_sydzengoXNVGUoqi",
                       "description": "",
-                      "fileCount": 3,
+                      "fileCount": 5,
                       "folderCount": 0,
-                      "totalSizeMB": 3.64,
-                      "lastUpdated": "2025-09-15 08:50:17.782",
+                      "totalSizeMB": 4.64,
+                      "lastUpdated": "2025-11-20 08:48:09.980",
                       "children": [
+                        {
+                          "name": "PSET#7 [Resultant of Non-Concurrent Force Systems].pdf",
+                          "id": "1a6-WwKyRmsfe91ds9vLaVmp7bKim_A4E",
+                          "type": "file",
+                          "mimeType": "application/pdf",
+                          "category": "documents",
+                          "size": {
+                            "bytes": 697322,
+                            "kb": 680.98,
+                            "mb": 0.67,
+                            "gb": 0.0006
+                          },
+                          "driveLink": "https://drive.google.com/file/d/1a6-WwKyRmsfe91ds9vLaVmp7bKim_A4E/view?usp=drivesdk",
+                          "modifiedTime": "2025-11-20 08:48:09.980",
+                          "createdTime": "2025-11-20 08:48:09.980"
+                        },
+                        {
+                          "name": "PSET#8 [Free-Body Diagrams].pdf",
+                          "id": "1LCOHuBI5y3ACgrm4R0TEv1ZU7FIXJ1ul",
+                          "type": "file",
+                          "mimeType": "application/pdf",
+                          "category": "documents",
+                          "size": {
+                            "bytes": 350501,
+                            "kb": 342.29,
+                            "mb": 0.33,
+                            "gb": 0.0003
+                          },
+                          "driveLink": "https://drive.google.com/file/d/1LCOHuBI5y3ACgrm4R0TEv1ZU7FIXJ1ul/view?usp=drivesdk",
+                          "modifiedTime": "2025-11-20 08:48:09.174",
+                          "createdTime": "2025-11-20 08:48:09.174"
+                        },
                         {
                           "name": "PSET#3 [Moment of a Force].pdf",
                           "id": "1URaM5CfHGovhAH5aox4DRJX7L2H5guD7",
@@ -269,10 +312,10 @@
                         }
                       ],
                       "fileTypes": {
-                        "documents": 3
+                        "documents": 5
                       },
                       "sizeDistribution": {
-                        "small": 1,
+                        "small": 3,
                         "medium": 2,
                         "large": 0,
                         "huge": 0
@@ -312,10 +355,10 @@
                     }
                   ],
                   "fileTypes": {
-                    "documents": 6
+                    "documents": 8
                   },
                   "sizeDistribution": {
-                    "small": 2,
+                    "small": 4,
                     "medium": 3,
                     "large": 1,
                     "huge": 0
@@ -415,10 +458,10 @@
                 }
               ],
               "fileTypes": {
-                "documents": 13
+                "documents": 15
               },
               "sizeDistribution": {
-                "small": 3,
+                "small": 5,
                 "medium": 7,
                 "large": 3,
                 "huge": 0
@@ -426,10 +469,10 @@
             }
           ],
           "fileTypes": {
-            "documents": 13
+            "documents": 15
           },
           "sizeDistribution": {
-            "small": 3,
+            "small": 5,
             "medium": 7,
             "large": 3,
             "huge": 0
@@ -1875,11 +1918,11 @@
         }
       ],
       "fileTypes": {
-        "documents": 73,
+        "documents": 75,
         "videos": 1
       },
       "sizeDistribution": {
-        "small": 24,
+        "small": 26,
         "medium": 42,
         "large": 8,
         "huge": 0
@@ -1915,6 +1958,18 @@
         "name": "NOTES [MECH 211].pdf",
         "size": 3109571,
         "modified": "2025-08-18 12:44:56.775"
+      },
+      "1a6-WwKyRmsfe91ds9vLaVmp7bKim_A4E": {
+        "signature": "5b2c4ad2f8f7704ea084447388bee467",
+        "name": "PSET#7 [Resultant of Non-Concurrent Force Systems].pdf",
+        "size": 697322,
+        "modified": "2025-11-20 08:48:09.980"
+      },
+      "1LCOHuBI5y3ACgrm4R0TEv1ZU7FIXJ1ul": {
+        "signature": "5b061c7dd310457063329b8fc07ee79d",
+        "name": "PSET#8 [Free-Body Diagrams].pdf",
+        "size": 350501,
+        "modified": "2025-11-20 08:48:09.174"
       },
       "1URaM5CfHGovhAH5aox4DRJX7L2H5guD7": {
         "signature": "b09843b743474ec72160ef7501546334",
@@ -2331,10 +2386,38 @@
         "modified": "2025-07-04 15:11:54.840"
       }
     },
-    "total_files": 74,
+    "total_files": 76,
     "total_folders": 31
   },
   "version_history": [
+    {
+      "version": "1.2.2",
+      "scan_date": "2025-11-20T17:22:14.438310+08:00",
+      "scanner_version": "1.0.0",
+      "changes": {
+        "added_files": [
+          {
+            "id": "1a6-WwKyRmsfe91ds9vLaVmp7bKim_A4E",
+            "name": "PSET#7 [Resultant of Non-Concurrent Force Systems].pdf",
+            "size": 697322
+          },
+          {
+            "id": "1LCOHuBI5y3ACgrm4R0TEv1ZU7FIXJ1ul",
+            "name": "PSET#8 [Free-Body Diagrams].pdf",
+            "size": 350501
+          }
+        ],
+        "deleted_files": [],
+        "modified_files": [],
+        "total_changes": 2,
+        "summary": "2 files added"
+      },
+      "stats": {
+        "totalFiles": 76,
+        "totalFolders": 31,
+        "totalSizeMB": 385.87
+      }
+    },
     {
       "version": "1.2.1",
       "scan_date": "2025-11-20T16:29:07.861882+08:00",
