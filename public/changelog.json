@@ -1,7 +1,7 @@
 {
   "scan_history": {
     "version": "1.2.2",
-    "scan_date": "2025-12-14T09:51:57.589340+08:00",
+    "scan_date": "2025-12-14T11:38:58.692700+08:00",
     "scanner_version": "1.0.0",
     "changes": {
       "added_files": [],
@@ -2381,7 +2381,7 @@
   "version_history": [
     {
       "version": "1.2.2",
-      "scan_date": "2025-12-14T09:51:57.589340+08:00",
+      "scan_date": "2025-12-14T11:38:58.692700+08:00",
       "scanner_version": "1.0.0",
       "changes": {
         "added_files": [
