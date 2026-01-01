@@ -1,17 +1,17 @@
 {
-  "version": "1.2.2",
-  "scan_date": "2026-01-01T19:19:06.857026+08:00",
+  "version": "1.2.3",
+  "scan_date": "2026-01-01T20:44:39.251222+08:00",
   "scanner_version": "1.0.0",
   "stats": {
-    "totalFiles": 76,
+    "totalFiles": 75,
     "totalFolders": 31,
-    "totalSizeMB": 385.87,
+    "totalSizeMB": 384.87,
     "apiCallsCount": 63
   },
   "data": {
-    "fileCount": 76,
+    "fileCount": 75,
     "folderCount": 31,
-    "totalSizeMB": 385.87,
+    "totalSizeMB": 384.87,
     "lastUpdated": "2025-11-20 08:48:09.980",
     "children": [
       {
@@ -58,9 +58,9 @@
         "type": "folder",
         "driveLink": "https://drive.google.com/drive/folders/1QUrwfXO6IByG3LqpBeb30uDjrTiiAslJ",
         "description": "",
-        "fileCount": 15,
+        "fileCount": 14,
         "folderCount": 7,
-        "totalSizeMB": 153.75,
+        "totalSizeMB": 152.75,
         "lastUpdated": "2025-11-20 08:48:09.980",
         "children": [
           {
@@ -88,9 +88,9 @@
             "type": "folder",
             "driveLink": "https://drive.google.com/drive/folders/1ijfYR9mi2uqIu6GRc69YAKbnSsnI7Yp3",
             "description": "",
-            "fileCount": 15,
+            "fileCount": 14,
             "folderCount": 5,
-            "totalSizeMB": 153.75,
+            "totalSizeMB": 152.75,
             "lastUpdated": "2025-11-20 08:48:09.980",
             "children": [
               {
@@ -99,9 +99,9 @@
                 "type": "folder",
                 "driveLink": "https://drive.google.com/drive/folders/1omwNelgMtl_jKx5aEabB8bwZNJZOy0a-",
                 "description": "Engr. Michael Jude Laverez",
-                "fileCount": 4,
+                "fileCount": 3,
                 "folderCount": 0,
-                "totalSizeMB": 40.83,
+                "totalSizeMB": 39.83,
                 "lastUpdated": "2025-09-28 05:06:13.074",
                 "children": [
                   {
@@ -119,22 +119,6 @@
                     "driveLink": "https://drive.google.com/file/d/1a0yQZ6iKZUTuwCzHaZkD9VjzBOA4Fyra/view?usp=drivesdk",
                     "modifiedTime": "2025-09-28 05:06:13.074",
                     "createdTime": "2025-09-28 05:06:13.074"
-                  },
-                  {
-                    "name": "DE MODULE 1.pdf",
-                    "id": "18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC",
-                    "type": "file",
-                    "mimeType": "application/pdf",
-                    "category": "documents",
-                    "size": {
-                      "bytes": 1044977,
-                      "kb": 1020.49,
-                      "mb": 1.0,
-                      "gb": 0.001
-                    },
-                    "driveLink": "https://drive.google.com/file/d/18j6a9c5Vp9fX26aaw7pHhEZUNhPbDMRC/view?usp=drivesdk",
-                    "modifiedTime": "2025-09-07 02:39:48.983",
-                    "createdTime": "2025-09-07 02:39:48.923"
                   },
                   {
                     "name": "Elementary Differential Equations 7th Edition by Earl D. Rainville.pdf",
@@ -170,10 +154,10 @@
                   }
                 ],
                 "fileTypes": {
-                  "documents": 4
+                  "documents": 3
                 },
                 "sizeDistribution": {
-                  "small": 1,
+                  "small": 0,
                   "medium": 2,
                   "large": 1,
                   "huge": 0
@@ -445,10 +429,10 @@
               }
             ],
             "fileTypes": {
-              "documents": 15
+              "documents": 14
             },
             "sizeDistribution": {
-              "small": 5,
+              "small": 4,
               "medium": 7,
               "large": 3,
               "huge": 0
@@ -456,10 +440,10 @@
           }
         ],
         "fileTypes": {
-          "documents": 15
+          "documents": 14
         },
         "sizeDistribution": {
-          "small": 5,
+          "small": 4,
           "medium": 7,
           "large": 3,
           "huge": 0
@@ -1905,11 +1889,11 @@
       }
     ],
     "fileTypes": {
-      "documents": 75,
+      "documents": 74,
       "videos": 1
     },
     "sizeDistribution": {
-      "small": 26,
+      "small": 25,
       "medium": 42,
       "large": 8,
       "huge": 0
