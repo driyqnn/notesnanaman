@@ -1,12 +1,12 @@
 {
   "version": "1.2.3",
-  "scan_date": "2026-03-01T14:50:34.682025+08:00",
+  "scan_date": "2026-03-01T15:33:18.805215+08:00",
   "scanner_version": "1.0.0",
   "stats": {
     "totalFiles": 75,
     "totalFolders": 31,
     "totalSizeMB": 384.87,
-    "apiCallsCount": 64
+    "apiCallsCount": 63
   },
   "data": {
     "fileCount": 75,
