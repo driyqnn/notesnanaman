@@ -353,11 +353,11 @@ Shared via ${baseUrl.endsWith('/') ? baseUrl : baseUrl + '/'} - notesnicharles h
               <div className="text-xs text-muted-foreground">
                 Developed by{" "}
                 <a
-                  href="https://m.me/09sychicc"
+                  href="https://m.me/chqrlzz"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline hover:text-primary">
-                  @09sychic
+                  @chqrlzz-dev
                 </a>
                 {" • "}
                 <span className="font-mono">{commit.shortSha}</span>
