@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 // Configuration - Update these values to change repo/branch
 const GITHUB_CONFIG = {
-  owner: 'driyqnn',
+  owner: 'chqrlzz-dev',
   repo: 'notesnanaman',
   branch: 'main'
 };
