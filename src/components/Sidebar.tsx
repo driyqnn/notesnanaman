@@ -301,11 +301,11 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <p className="text-xs text-muted-foreground text-center">
             Developed by{" "}
             <a
-              href="https://m.me/09sychicc"
+              href="https://m.me/chqrlzz"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-primary">
-              @09sychic
+              @chqrlzz-dev
             </a>
           </p>
         </div>
